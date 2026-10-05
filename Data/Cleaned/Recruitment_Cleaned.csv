@@ -1,0 +1,707 @@
+Candidate_ID,Age,Gender,Department,Job_Role,Education,Experience_Years,Application_date,Source,Screening_Status,Interview_Status,Hiring_Status,Interview_Score,Expected_Salary,Time_to_Hire
+C1002,25,Male,Sales,"Sales Executive",MCA,0.7,2026-05-08,"Campus Hiring",Passed,Selected,Rejected,47,119120,39
+C1003,27,Male,Hr,"Financial Analyst",MBA,5.9,2026-03-02,LinkedIn,Passed,Rejected,Rejected,47,72850,56
+C1004,40,Female,Sales,"Sales Executive",B.Tech,11.1,2025-04-18,"Company Website",Passed,Pending,Pending,88,29722,32
+C1006,24,Male,Hr,Recruiter,Unknown,9.2,2025-11-07,Indeed,Passed,Selected,Hired,69,111105,40
+C1007,26,Male,Finance,"Finance Executive",MCA,30,2025-06-19,"Company Website",Failed,Rejected,Pending,81,66679,37
+C1008,27,Female,Finance,"Financial Analyst",B.Com,7.9,2026-06-30,"Company Website",Passed,Selected,Rejected,92,93771,68
+C1009,38,Male,Finance,"Financial Analyst",MBA,3.1,2026-02-18,Naukri,Passed,Rejected,Hired,78,29576,30
+C1010,25,Male,Sales,"Business Development Executive",B.Tech,1.9,2025-09-08,"Company Website",Passed,Rejected,Rejected,86,51707,52
+C1011,40,Female,Marketing,"Marketing Executive",MBA,1.9,2025-05-21,LinkedIn,Failed,Rejected,Hired,86,66632,44
+C1012,23,Male,Finance,Accountant,B.Tech,0.8,2025-10-01,Indeed,Passed,Pending,Rejected,61,66476,21
+C1013,27,Male,Operations,"Operations Executive",M.Tech,2.2,2026-02-20,Indeed,Passed,Selected,Hired,56,55285,44
+C1014,42,Male,Sales,"Sales Analyst",B.Sc,8,2026-08-31,Referral,Passed,Rejected,Hired,88,49154,11
+C1015,34,Female,Hr,"HR Executive",M.Tech,10.6,2025-02-08,Referral,Passed,Pending,Hired,63,45054,61
+C1016,27,Male,Marketing,"Marketing Executive",M.Tech,9.8,2025-01-29,Referral,Passed,Rejected,Rejected,94,42165,12
+C1017,25,Male,Operations,"Operations Analyst",MBA,8.2,2026-04-22,"Campus Hiring",Passed,Rejected,Rejected,44,39439,60
+C1018,42,Female,Operations,"Operations Executive",B.Sc,1.3,2025-11-14,"Company Website",Passed,Pending,Rejected,43,69518,35
+C1019,25,Female,Hr,"HR Executive",Unknown,3.5,2025-09-02,"Company Website",Passed,Selected,Hired,96,113051,63
+C1020,43,Male,Marketing,"Digital Marketer",B.Tech,3.7,2025-09-29,Naukri,Failed,Pending,Hired,79,51962,62
+C1021,22,Male,Sales,"Sales Analyst",MCA,3,2026-03-16,"Campus Hiring",Passed,Selected,Pending,63,78934,16
+C1022,41,Female,IT,"QA Engineer",B.Com,6.2,2025-08-27,Referral,Passed,Rejected,Rejected,85,62763,52
+C1023,42,Male,Marketing,"Digital Marketer",MCA,6.4,2026-01-12,LinkedIn,Passed,Pending,Rejected,80,89094,35
+C1024,26,Male,Hr,Recruiter,MCA,4.3,2025-09-23,Naukri,Passed,Selected,Hired,72,44464,87
+C1026,41,Female,Sales,"Business Development Executive",MBA,9.9,2025-12-06,"Company Website",Passed,Selected,Rejected,89,58270,78
+C1027,30,Female,Marketing,"Digital Marketer",M.Tech,9.5,2026-01-24,Naukri,Passed,Pending,Hired,92,67299,43
+C1028,43,Female,IT,"QA Engineer",M.Tech,3.7,2026-07-31,Naukri,Passed,Pending,Hired,50,350000,80
+C1029,44,Female,IT,"QA Engineer",M.Tech,11,2025-01-03,Indeed,Passed,Rejected,Rejected,91,56541,24
+C1030,27,Female,Finance,Accountant,B.Sc,11.4,2026-03-05,"Company Website",Passed,Rejected,Pending,93,98545,52
+C1031,25,Male,Finance,"Financial Analyst",B.Tech,3.9,2025-05-22,"Company Website",Failed,Pending,Pending,73,107543,75
+C1034,41,Female,Marketing,"Digital Marketer",B.Com,11.3,2025-05-26,"Company Website",Passed,Rejected,Hired,57,107970,79
+C1036,33,Female,Operations,"Process Associate",MCA,1.2,2026-03-08,"Campus Hiring",Passed,Selected,Rejected,92,48769,33
+C1037,41,Male,Operations,"Operations Executive",MBA,4.7,2026-08-08,"Campus Hiring",Passed,Selected,Hired,79,113001,78
+C1038,41,Female,Finance,"Financial Analyst",MBA,6.6,2026-02-03,Indeed,Failed,Selected,Pending,71,112404,77
+C1039,38,Female,Marketing,"Marketing Analyst",M.Tech,6,2025-12-10,Naukri,Passed,Pending,Hired,50,45156,52
+C1042,24,Female,Finance,"Finance Executive",MCA,8.1,2025-03-02,Naukri,Passed,Rejected,Rejected,43,38435,60
+C1043,37,Female,Sales,"Sales Executive",B.Tech,10.1,2026-01-15,Naukri,Passed,Selected,Rejected,74,94650,21
+C1044,23,Male,Finance,"Financial Analyst",MBA,10.3,2026-03-16,Naukri,Failed,Selected,Hired,63,71336,13
+C1045,37,Male,Sales,"Business Development Executive",M.Tech,9,2025-11-15,Referral,Passed,Rejected,Pending,85,61135,38
+C1046,31,Male,IT,"Software Developer",MBA,5.3,2025-10-29,"Company Website",Failed,Rejected,Rejected,58,98631,49
+C1047,41,Female,Hr,"HR Analyst",B.Com,7.3,2025-12-10,"Campus Hiring",Failed,Pending,Rejected,76,62909,13
+C1048,40,Male,Marketing,"Marketing Analyst",B.Com,1.9,2025-01-11,"Company Website",Failed,Rejected,Pending,72,94487,11
+C1049,43,Male,IT,"QA Engineer",M.Tech,25,2025-03-03,Referral,Passed,Rejected,Rejected,40,46468,20
+C1050,41,Female,Marketing,"Digital Marketer",B.Tech,2.2,2025-08-14,Naukri,Passed,Rejected,Hired,44,117609,23
+C1051,24,Female,Operations,"Operations Analyst",B.Tech,8.3,2025-06-02,Indeed,Passed,Pending,Rejected,57,72655,10
+C1052,22,Female,Hr,Recruiter,MCA,2.8,2026-07-18,Naukri,Passed,Rejected,Hired,93,59341,15
+C1053,40,Female,Hr,Recruiter,MCA,1.4,2026-07-25,Naukri,Passed,Selected,Hired,49,89182,80
+C1055,38,Male,Hr,Recruiter,M.Tech,0,2026-07-29,"Company Website",Passed,Rejected,Pending,98,93304,46
+C1056,28,Male,Sales,"Business Development Executive",MBA,8.6,2025-11-06,Naukri,Passed,Rejected,Hired,87,71514,17
+C1057,23,Female,Hr,"HR Analyst",M.Tech,8.8,2025-08-31,"Company Website",Passed,Selected,Rejected,55,58979,16
+C1058,29,Female,Marketing,"Marketing Analyst",B.Sc,6.2,2026-05-08,LinkedIn,Passed,Pending,Hired,95,115887,89
+C1059,40,Female,Marketing,"Marketing Analyst",MCA,1.9,2026-01-01,"Campus Hiring",Passed,Pending,Rejected,46,105981,78
+C1060,26,Female,Marketing,"Marketing Analyst",M.Tech,1,2025-11-26,"Company Website",Failed,Selected,Rejected,68,80107,24
+C1061,30,Female,Marketing,"Digital Marketer",M.Tech,0.2,2025-04-17,Indeed,Passed,Pending,Rejected,93,26160,54
+C1062,41,Male,it,"Sales Executive",MCA,2,2025-08-14,"Campus Hiring",Failed,Selected,Hired,78,112897,40
+C1063,30,Male,Finance,Accountant,B.Sc,10.7,2025-08-06,Indeed,Failed,Selected,Rejected,65,97577,73
+C1064,33,Male,Operations,"Operations Executive",MCA,2.9,2026-05-21,Naukri,Failed,Selected,Pending,58,109303,41
+C1065,37,Male,IT,"QA Engineer",B.Tech,4.3,2025-09-16,"Campus Hiring",Passed,Selected,Rejected,63,35846,16
+C1066,29,Female,Marketing,"Digital Marketer",MBA,1.3,2026-06-01,"Company Website",Failed,Pending,Rejected,71,44924,44
+C1067,37,Male,Hr,"HR Analyst",MCA,2.7,2025-02-23,"Campus Hiring",Passed,Selected,Pending,59,38882,58
+C1068,44,Female,Marketing,"Digital Marketer",B.Sc,6.2,2025-02-16,Naukri,Passed,Selected,Hired,98,105274,6
+C1069,29,Female,Hr,"HR Analyst",B.Com,7.3,2026-06-05,Referral,Passed,Selected,Rejected,96,111555,54
+C1071,21,Male,Operations,"Operations Executive",B.Com,0.7,2025-01-20,Naukri,Passed,Selected,Hired,65,65983,49
+C1073,36,Male,Hr,Recruiter,B.Tech,2.8,2026-05-05,"Campus Hiring",Passed,Selected,Hired,94,118668,66
+C1074,21,Male,Marketing,"Marketing Executive",MBA,2.6,2026-02-23,"Campus Hiring",Failed,Pending,Rejected,91,91615,90
+C1075,30,Female,Operations,"Operations Analyst",MCA,11.5,2025-03-03,Naukri,Passed,Pending,Rejected,65,70278,51
+C1076,38,Female,Sales,"Sales Executive",Unknown,7.4,2025-05-25,"Company Website",Passed,Selected,Rejected,47,115290,9
+C1077,28,Female,Hr,"HR Executive",M.Tech,6.7,2025-08-04,"Campus Hiring",Passed,Pending,Rejected,45,76999,80
+C1078,41,Male,Hr,Recruiter,B.Com,5,2025-01-03,"Company Website",Passed,Selected,Hired,75,56153,5
+C1079,72,Female,Marketing,"Digital Marketer",B.Tech,5.1,2025-06-09,"Company Website",Failed,Selected,Rejected,79,43344,48
+C1080,43,Male,Hr,"HR Executive",MBA,6.5,2025-04-30,"Company Website",Passed,Selected,Hired,91,62656,26
+C1081,22,Female,Hr,Recruiter,B.Sc,8.4,2025-03-30,LinkedIn,Passed,Selected,Pending,58,95515,42
+C1082,28,Female,Operations,"Operations Executive",MBA,8.4,2025-11-25,Referral,Failed,Rejected,Hired,50,26212,23
+C1083,42,Male,Marketing,"Digital Marketer",B.Sc,2.1,2026-08-03,Referral,Failed,Rejected,Pending,63,34001,84
+C1084,28,Male,Operations,"Process Associate",MCA,6,2025-12-23,"Campus Hiring",Passed,Selected,Rejected,61,103784,35
+C1085,37,Male,Operations,"Process Associate",B.Tech,4.9,2025-09-24,"Campus Hiring",Failed,Rejected,Rejected,48,106144,71
+C1086,35,Male,Marketing,"Marketing Analyst",MBA,10.4,2025-11-19,"Company Website",Passed,Selected,Rejected,80,61427,46
+C1087,37,Male,IT,"QA Engineer",MBA,7.6,2026-06-25,LinkedIn,Passed,Rejected,Rejected,71,56368,86
+C1089,44,Female,Sales,"Sales Executive",MBA,1.4,2025-11-28,LinkedIn,Failed,Selected,Hired,61,86160,17
+C1090,33,Female,Sales,"Sales Analyst",B.Sc,7.3,2025-06-19,"Company Website",Passed,Selected,Rejected,60,50854,62
+C1091,39,Male,Hr,"HR Analyst",MBA,1.4,2026-06-05,Indeed,Passed,Selected,Hired,68,35715,22
+C1092,25,Female,Sales,"Sales Analyst",Unknown,4,2026-04-08,Indeed,Passed,Rejected,Hired,93,106701,71
+C1094,21,Female,IT,"Software Developer",M.Tech,8.3,2026-06-21,"Company Website",Passed,Selected,Hired,88,51797,59
+C1095,43,Female,Marketing,"Marketing Executive",B.Sc,2.5,2025-09-18,"Campus Hiring",Failed,Rejected,Hired,62,72573,62
+C1096,25,Male,Marketing,"Marketing Analyst",B.Com,4.7,2026-01-30,Referral,Passed,Rejected,Hired,91,101120,67
+C1097,28,Female,Marketing,"Marketing Analyst",MCA,10.7,2025-08-14,Naukri,Passed,Pending,Hired,88,39780,56
+C1098,33,Male,Sales,"Sales Analyst",B.Tech,2.5,2025-05-04,"Campus Hiring",Failed,Selected,Hired,61,62905,28
+C1099,28,Female,IT,"Data Analyst",B.Sc,6.1,2025-02-07,Naukri,Passed,Rejected,Pending,82,46573,76
+C1100,45,Male,Sales,"Business Development Executive",M.Tech,5,2025-11-24,"Company Website",Passed,Pending,Hired,50,58359,13
+C1101,43,Female,Sales,"Sales Executive",MCA,0.2,2025-09-08,Naukri,Passed,Rejected,Rejected,94,91062,41
+C1102,31,Male,IT,"Software Developer",M.Tech,9.5,2025-06-25,"Company Website",Passed,Rejected,Hired,64,98391,87
+C1103,21,Female,IT,"QA Engineer",B.Tech,0.8,2026-08-25,Naukri,Passed,Selected,Pending,67,68463,57
+C1104,33,Female,IT,"QA Engineer",B.Tech,5.7,2026-03-30,Naukri,Passed,Selected,Hired,82,41571,84
+C1105,39,Male,IT,"Data Analyst",B.Sc,6.7,2025-02-06,Indeed,Passed,Rejected,Pending,89,44142,28
+C1106,44,Female,Marketing,"Marketing Executive",MBA,7.5,2025-11-12,LinkedIn,Passed,Rejected,Rejected,54,50104,25
+C1107,23,Female,Finance,Accountant,B.Tech,8.3,2026-08-16,Indeed,Failed,Selected,Hired,80,33625,44
+C1108,44,Male,Finance,Accountant,MCA,3,2025-04-24,"Company Website",Failed,Rejected,Pending,64,64199,66
+C1109,37,Male,IT,"Data Analyst",MBA,0.1,2025-02-09,Referral,Failed,Rejected,Rejected,62,40926,74
+C1110,25,Male,Finance,Accountant,B.Com,8.7,2025-10-28,Indeed,Failed,Rejected,Hired,81,56218,73
+C1113,28,Male,Finance,"Financial Analyst",M.Tech,9.9,2025-12-15,LinkedIn,Passed,Selected,Rejected,90,45566,54
+C1114,34,Female,Sales,"Sales Executive",MBA,10.1,2025-04-25,Naukri,Passed,Pending,Rejected,46,81125,65
+C1115,24,Female,Hr,"HR Executive",B.Com,5.8,2025-11-19,Naukri,Passed,Selected,Rejected,81,58205,8
+C1116,31,Female,Hr,Recruiter,B.Tech,4,2026-07-22,Referral,Passed,Selected,Rejected,55,54717,76
+C1118,35,Female,Marketing,"Digital Marketer",B.Tech,5.4,2025-02-09,Indeed,Failed,Selected,Rejected,50,50135,21
+C1119,39,Female,IT,"Data Analyst",B.Tech,2.2,2025-10-16,Referral,Passed,Selected,Hired,76,53164,89
+C1120,27,Male,Marketing,"Digital Marketer",M.Tech,10.3,2025-09-19,"Company Website",Failed,Selected,Pending,83,99489,61
+C1121,39,Male,Hr,Recruiter,MCA,10.6,2025-08-04,Indeed,Passed,Pending,Hired,41,63562,52
+C1122,39,Female,IT,"Data Analyst",Unknown,5.6,2025-05-27,Indeed,Passed,Selected,Hired,42,94110,48
+C1123,31,Male,Operations,"Process Associate",MBA,0.9,2025-12-02,Indeed,Passed,Rejected,Rejected,94,45169,49
+C1127,28,Female,Operations,"Process Associate",M.Tech,2.4,2026-07-25,Naukri,Failed,Selected,Rejected,84,113738,51
+C1129,26,Male,Finance,Accountant,Unknown,10.5,2025-12-29,LinkedIn,Failed,Rejected,Pending,92,33007,76
+C1130,35,Male,IT,"QA Engineer",MBA,4.7,2026-07-11,Referral,Passed,Rejected,Rejected,82,66787,75
+C1132,37,Male,Sales,"Sales Analyst",MBA,11.6,2025-06-19,"Company Website",Passed,Rejected,Hired,45,99791,57
+C1133,28,Male,Operations,"Process Associate",MBA,0.8,2025-12-22,Indeed,Passed,Rejected,Pending,84,108629,18
+C1134,28,Male,Finance,"Financial Analyst",B.Sc,7.8,2025-07-10,Indeed,Passed,Rejected,Hired,77,30782,20
+C1135,45,Male,IT,"Data Analyst",MBA,0.9,2026-02-26,"Company Website",Passed,Selected,Rejected,40,91770,47
+C1136,29,Female,Sales,"Business Development Executive",B.Sc,4.5,2025-01-07,LinkedIn,Passed,Pending,Rejected,41,82645,77
+C1137,22,Male,Hr,"HR Executive",B.Tech,9.6,2025-05-13,LinkedIn,Passed,Rejected,Rejected,89,56996,78
+C1141,37,Male,Hr,"HR Analyst",B.Com,3.9,2026-03-02,"Company Website",Passed,Pending,Pending,92,115555,23
+C1142,24,Male,Hr,"HR Analyst",MBA,2.6,2026-01-29,Naukri,Passed,Selected,Hired,95,110024,45
+C1143,24,Female,Marketing,"Marketing Analyst",MCA,4.2,2025-12-29,Indeed,Failed,Rejected,Rejected,100,44689,57
+C1144,34,Male,Sales,"Business Development Executive",B.Tech,4.5,2026-03-13,Indeed,Passed,Rejected,Rejected,49,75690,33
+C1145,29,Male,Finance,Accountant,B.Tech,0.8,2026-07-05,Indeed,Failed,Pending,Rejected,92,119042,74
+C1146,29,Female,IT,"Software Developer",B.Com,4.4,2025-03-23,"Company Website",Failed,Rejected,Rejected,56,108251,63
+C1147,45,Female,Marketing,"Marketing Analyst",B.Sc,5.6,2025-12-22,"Company Website",Passed,Selected,Hired,75,82320,68
+C1148,65,Male,Sales,"Business Development Executive",MBA,8.7,2025-09-15,Referral,Failed,Pending,Hired,70,89226,28
+C1149,38,Female,Marketing,"Digital Marketer",B.Sc,7.9,2026-08-12,Indeed,Failed,Rejected,Rejected,41,81091,20
+C1150,30,Female,Operations,"Operations Executive",B.Tech,8.5,2026-06-08,Referral,Failed,Selected,Rejected,96,104301,56
+C1151,41,Female,Sales,"Business Development Executive",B.Sc,0.1,2025-10-22,Indeed,Passed,Selected,Rejected,45,46942,84
+C1152,24,Male,Sales,"Business Development Executive",B.Tech,2.6,2025-08-12,Referral,Passed,Rejected,Hired,81,63712,10
+C1153,32,Male,Finance,"Finance Executive",B.Sc,7.9,2026-06-09,Referral,Passed,Selected,Hired,87,90277,41
+C1154,28,Male,Sales,"Sales Analyst",B.Com,5.8,2025-02-15,Naukri,Passed,Selected,Hired,88,74632,89
+C1155,22,Female,Marketing,"Marketing Analyst",M.Tech,0.1,2025-04-23,Referral,Passed,Pending,Hired,48,63031,8
+C1156,42,Male,Sales,"Sales Analyst",B.Com,9.7,2025-08-21,"Company Website",Passed,Selected,Rejected,67,45478,42
+C1157,33,Female,Finance,"Finance Executive",B.Com,9.3,2025-01-17,Referral,Failed,Rejected,Pending,90,47551,45
+C1158,41,Male,Finance,"Finance Executive",M.Tech,6.6,2025-12-26,Indeed,Failed,Selected,Rejected,58,73068,85
+C1159,36,Male,Operations,"Operations Analyst",M.Tech,0.8,2025-08-11,Referral,Passed,Rejected,Rejected,68,118608,18
+C1160,22,Female,Marketing,"Marketing Analyst",MBA,9.2,2026-03-24,LinkedIn,Passed,Rejected,Hired,56,60561,75
+C1161,31,Male,Hr,"HR Analyst",MBA,7,2025-12-31,"Campus Hiring",Passed,Selected,Rejected,68,27892,90
+C1164,37,Male,Operations,"Operations Analyst",B.Tech,9.6,2026-02-18,Indeed,Passed,Pending,Rejected,73,112710,56
+C1165,28,Female,IT,"Software Developer",B.Tech,6.2,2026-03-31,"Company Website",Passed,Pending,Pending,64,59651,34
+C1166,38,Male,Sales,"Sales Analyst",MBA,1.7,2026-08-09,"Campus Hiring",Passed,Rejected,Pending,68,91333,61
+C1167,43,Male,Operations,"Process Associate",MCA,8.1,2025-08-21,"Campus Hiring",Passed,Rejected,Rejected,41,500000,83
+C1168,29,Female,Marketing,"Marketing Analyst",MCA,7.4,2025-08-12,"Company Website",Passed,Selected,Rejected,57,74306,86
+C1169,45,Male,Marketing,"Marketing Executive",MBA,8.9,2026-02-16,"Campus Hiring",Failed,Rejected,Hired,66,46346,34
+C1170,28,Female,Marketing,"Marketing Analyst",B.Tech,2,2026-07-26,"Company Website",Failed,Rejected,Rejected,78,53024,46
+C1171,34,Male,Marketing,"Marketing Executive",B.Tech,2.3,2025-12-01,LinkedIn,Failed,Selected,Pending,67,119950,15
+C1172,45,Male,Marketing,"Digital Marketer",MCA,10.7,2025-08-10,Naukri,Failed,Rejected,Hired,60,65818,31
+C1173,38,Male,Operations,"Process Associate",B.Sc,9,2025-02-06,Indeed,Passed,Selected,Pending,63,30947,28
+C1174,42,Male,Operations,"Operations Executive",B.Sc,10.9,2025-10-05,"Company Website",Passed,Rejected,Rejected,55,100153,43
+C1176,40,Female,Hr,"HR Analyst",B.Sc,7.2,2026-04-29,LinkedIn,Failed,Rejected,Pending,71,119238,22
+C1177,41,Female,Marketing,"Digital Marketer",M.Tech,7.8,2025-08-30,Naukri,Passed,Selected,Rejected,41,92428,81
+C1178,32,Female,IT,"Software Developer",MBA,10.7,2025-11-20,LinkedIn,Passed,Selected,Rejected,41,54754,49
+C1179,39,Female,Operations,"Operations Analyst",MBA,6.9,2025-07-11,"Campus Hiring",Passed,Rejected,Rejected,98,88355,16
+C1181,37,Female,IT,"Data Analyst",B.Com,1.9,2026-06-08,Naukri,Passed,Rejected,Pending,88,93960,35
+C1182,44,Male,IT,"Data Analyst",MCA,5.7,2026-02-05,"Campus Hiring",Passed,Selected,Rejected,43,38418,26
+C1183,41,Male,Finance,"Financial Analyst",B.Tech,8.6,2025-01-22,Naukri,Passed,Selected,Rejected,95,113593,48
+C1185,43,Female,IT,"QA Engineer",MCA,2.4,2025-04-30,Naukri,Failed,Rejected,Pending,74,29833,81
+C1186,27,Male,Marketing,"Marketing Executive",B.Com,3.8,2025-07-29,"Company Website",Passed,Selected,Rejected,41,100430,29
+C1187,37,Male,Sales,"Sales Executive",B.Sc,2.9,2025-11-02,Indeed,Failed,Pending,Pending,55,66833,55
+C1188,32,Male,IT,"Software Developer",M.Tech,2.6,2025-09-27,Referral,Passed,Pending,Rejected,64,25565,11
+C1189,29,Female,Finance,"Finance Executive",B.Sc,5.1,2025-10-12,Referral,Failed,Pending,Hired,68,65180,10
+C1191,38,Female,Finance,Accountant,MCA,6.1,2026-01-16,Indeed,Failed,Pending,Rejected,42,67845,23
+C1192,41,Male,IT,"Software Developer",M.Tech,2.3,2026-04-05,Indeed,Passed,Selected,Hired,75,100851,87
+C1193,33,Male,Operations,"Process Associate",MCA,0.9,2025-01-07,LinkedIn,Failed,Selected,Hired,71,37834,13
+C1194,41,Female,Sales,"Sales Executive",Unknown,8.4,2025-01-29,Indeed,Failed,Rejected,Rejected,57,92850,40
+C1196,34,Male,Finance,Accountant,MCA,9.9,2025-03-20,LinkedIn,Passed,Rejected,Rejected,100,28883,28
+C1197,28,Male,Hr,"HR Executive",MCA,7.9,2026-04-04,"Company Website",Passed,Rejected,Rejected,69,100587,52
+C1198,34,Male,Marketing,"Marketing Executive",B.Sc,9.6,2026-07-24,Indeed,Passed,Rejected,Pending,85,36695,67
+C1199,27,Male,Finance,Accountant,MCA,3.3,2026-06-22,LinkedIn,Passed,Rejected,Rejected,67,48123,73
+C1200,43,Female,Operations,"Operations Analyst",B.Sc,8.3,2026-04-27,Indeed,Passed,Selected,Pending,43,83481,57
+C1201,32,Male,IT,"Software Developer",MCA,3.2,2026-03-06,LinkedIn,Passed,Selected,Rejected,59,98438,58
+C1202,31,Male,Marketing,"Marketing Analyst",M.Tech,11.3,2025-10-12,Indeed,Passed,Rejected,Rejected,59,42573,46
+C1203,42,Male,IT,"QA Engineer",MCA,7.6,2026-05-31,"Company Website",Passed,Rejected,Rejected,90,119910,49
+C1204,42,Female,Operations,"Operations Executive",B.Com,3.9,2025-04-09,"Company Website",Passed,Selected,Rejected,79,81494,18
+C1205,31,Female,IT,"Software Developer",MCA,3.2,2026-02-01,Indeed,Passed,Rejected,Rejected,57,37288,33
+C1207,42,Male,Marketing,"Marketing Executive",M.Tech,8.3,2025-02-08,Referral,Passed,Rejected,Rejected,59,97420,11
+C1208,33,Male,Marketing,"Marketing Executive",MBA,2.6,2025-09-28,"Company Website",Passed,Selected,Hired,100,101095,41
+C1209,38,Female,Operations,"Operations Executive",M.Tech,7.1,2025-06-06,"Company Website",Failed,Rejected,Rejected,100,79672,57
+C1210,22,Female,Hr,Recruiter,B.Com,3.2,2025-03-16,"Campus Hiring",Passed,Selected,Hired,51,86821,22
+C1211,41,Female,Finance,"Financial Analyst",MBA,7.9,2025-05-10,Referral,Passed,Pending,Rejected,59,108661,42
+C1213,40,Female,Sales,"Business Development Executive",B.Tech,9.3,2025-01-22,LinkedIn,Failed,Rejected,Hired,80,114405,5
+C1214,38,Male,IT,"QA Engineer",B.Com,9.1,2026-04-04,"Campus Hiring",Failed,Selected,Rejected,72,79796,72
+C1217,43,Female,IT,"Software Developer",B.Com,8.4,2026-03-16,"Company Website",Passed,Selected,Pending,53,107636,39
+C1218,44,Male,Hr,Recruiter,MBA,4.4,2026-08-27,Naukri,Passed,Rejected,Rejected,46,61735,64
+C1219,32,Female,Hr,Recruiter,MBA,5.2,2025-01-21,"Company Website",Passed,Selected,Rejected,81,97959,56
+C1220,33,Female,Marketing,"Marketing Analyst",MCA,0.4,2025-10-30,"Company Website",Failed,Selected,Rejected,50,64218,12
+C1221,42,Male,Operations,"Process Associate",B.Tech,3.1,2025-03-25,Naukri,Passed,Rejected,Rejected,87,37213,84
+C1222,31,Male,Sales,"Sales Executive",MBA,0.4,2026-03-29,Naukri,Failed,Selected,Hired,59,53460,45
+C1224,21,Male,Hr,"QA Engineer",MBA,2.9,2026-05-22,"Campus Hiring",Failed,Rejected,Rejected,41,56017,73
+C1226,23,Male,Operations,"Process Associate",B.Sc,0.5,2026-07-24,Naukri,Passed,Selected,Rejected,47,55990,18
+C1227,42,Female,Hr,"HR Executive",MCA,8,2026-06-11,Indeed,Passed,Rejected,Rejected,86,44515,30
+C1228,39,Female,Sales,"Sales Analyst",B.Tech,3.9,2025-06-11,"Campus Hiring",Passed,Rejected,Rejected,70,54991,74
+C1229,43,Female,Marketing,"Digital Marketer",MBA,10.8,2025-06-12,Indeed,Passed,Selected,Hired,87,32634,62
+C1230,27,Female,Hr,Recruiter,B.Com,10.7,2026-06-08,Indeed,Failed,Pending,Rejected,75,102034,44
+C1231,32,Male,Operations,"Process Associate",M.Tech,3.9,2025-09-28,"Company Website",Passed,Selected,Rejected,45,101452,55
+C1233,45,Female,Finance,Accountant,B.Sc,12,2025-07-27,"Campus Hiring",Passed,Selected,Rejected,44,58001,81
+C1234,25,Female,Finance,Accountant,B.Com,9.9,2026-06-23,"Company Website",Passed,Pending,Rejected,69,26391,36
+C1235,35,Male,IT,"Data Analyst",Unknown,10.1,2026-08-07,Naukri,Failed,Rejected,Pending,50,90206,84
+C1236,28,Male,Operations,"Operations Analyst",MCA,3,2025-03-01,"Company Website",Failed,Selected,Hired,85,67215,5
+C1237,30,Male,Sales,"Business Development Executive",B.Sc,6.9,2026-03-06,"Campus Hiring",Failed,Selected,Pending,95,104720,81
+C1238,36,Male,Marketing,"Marketing Analyst",B.Sc,0.8,2026-08-28,"Campus Hiring",Failed,Rejected,Rejected,73,52114,58
+C1239,28,Male,Hr,Recruiter,MCA,1.1,2025-11-05,Naukri,Failed,Pending,Hired,72,36882,15
+C1240,21,Male,Operations,"Operations Executive",MBA,12,2026-06-04,"Company Website",Passed,Selected,Rejected,86,42273,57
+C1241,32,Female,Operations,"Operations Analyst",MBA,3.9,2026-08-14,LinkedIn,Failed,Selected,Hired,40,70647,12
+C1242,25,Male,Finance,"Finance Executive",B.Com,9,2025-01-27,LinkedIn,Passed,Rejected,Hired,95,107665,29
+C1244,21,Female,IT,"Software Developer",B.Com,10.3,2025-07-18,"Company Website",Passed,Rejected,Rejected,99,67679,36
+C1245,24,Male,Marketing,"Marketing Analyst",Unknown,12,2026-01-22,"Company Website",Failed,Rejected,Pending,84,25427,32
+C1246,28,Male,Finance,"Financial Analyst",B.Sc,2.9,2025-12-15,Indeed,Failed,Selected,Rejected,86,91267,82
+C1247,23,Male,Operations,"Operations Executive",B.Tech,20,2026-06-20,"Campus Hiring",Passed,Pending,Hired,79,25799,7
+C1249,22,Male,Finance,Accountant,B.Com,1.6,2026-07-12,Naukri,Failed,Selected,Rejected,74,119409,83
+C1250,31,Female,Marketing,"Digital Marketer",M.Tech,0.3,2026-06-11,Referral,Passed,Rejected,Pending,43,32025,66
+C1251,45,Male,Marketing,"Marketing Analyst",B.Sc,25,2025-06-02,Referral,Passed,Rejected,Pending,77,39481,31
+C1253,41,Female,Marketing,"Marketing Executive",M.Tech,6.8,2026-03-31,"Company Website",Passed,Rejected,Rejected,93,39961,29
+C1254,34,Male,Finance,"Finance Executive",B.Sc,3.8,2025-09-30,Naukri,Passed,Selected,Rejected,70,46767,65
+C1256,22,Male,Finance,Accountant,MBA,2.8,2026-06-05,"Campus Hiring",Passed,Pending,Pending,58,77870,50
+C1257,29,Female,Finance,Accountant,MCA,0.2,2026-05-16,"Campus Hiring",Failed,Selected,Hired,79,61135,18
+C1258,36,Female,it,"Digital Marketer",B.Tech,9.2,2025-04-27,"Campus Hiring",Failed,Rejected,Hired,54,89514,12
+C1259,33,Male,Marketing,"Marketing Executive",B.Com,7.5,2026-01-21,"Company Website",Failed,Pending,Hired,57,111928,52
+C1260,29,Male,IT,"Software Developer",B.Tech,9.1,2025-12-10,LinkedIn,Failed,Pending,Rejected,89,103798,18
+C1261,40,Male,IT,"QA Engineer",B.Com,0.5,2026-08-07,Naukri,Failed,Rejected,Rejected,75,95765,69
+C1262,24,Male,Hr,"HR Analyst",MBA,10,2026-01-30,"Campus Hiring",Passed,Rejected,Rejected,71,48772,84
+C1263,42,Male,IT,"Data Analyst",B.Sc,7.4,2025-03-05,Naukri,Passed,Rejected,Pending,59,43799,86
+C1264,30,Female,Finance,"Finance Executive",MCA,6.8,2025-03-13,"Campus Hiring",Passed,Pending,Pending,84,48555,11
+C1266,32,Female,IT,"Data Analyst",MCA,10.4,2025-11-16,LinkedIn,Failed,Selected,Hired,84,44333,53
+C1267,37,Female,IT,"Software Developer",MBA,7,2025-12-04,LinkedIn,Passed,Rejected,Pending,44,29261,59
+C1268,34,Female,Hr,Recruiter,B.Tech,7,2026-01-01,"Campus Hiring",Passed,Rejected,Pending,92,94002,17
+C1269,34,Female,Operations,"Operations Analyst",M.Tech,11.9,2026-05-10,"Company Website",Passed,Rejected,Rejected,70,71553,77
+C1270,45,Female,Hr,"HR Executive",B.Sc,9.1,2026-08-30,Indeed,Failed,Rejected,Rejected,66,28088,60
+C1271,22,Male,Finance,"Finance Executive",MBA,5.3,2025-06-15,Naukri,Failed,Rejected,Hired,77,70783,60
+C1272,41,Male,Marketing,"Digital Marketer",M.Tech,8.5,2026-06-28,Naukri,Passed,Pending,Pending,77,26115,19
+C1273,45,Female,Hr,Recruiter,MBA,4.7,2025-01-11,Referral,Failed,Selected,Rejected,48,95114,61
+C1274,40,Female,IT,"Data Analyst",MBA,2.7,2025-10-28,"Company Website",Passed,Selected,Rejected,85,93126,62
+C1275,31,Male,Marketing,"Digital Marketer",B.Sc,7.2,2025-04-12,Referral,Passed,Rejected,Hired,57,97908,39
+C1276,36,Male,Marketing,"Marketing Executive",B.Com,11.1,2026-03-01,"Campus Hiring",Failed,Selected,Pending,94,94109,20
+C1277,39,Male,IT,"QA Engineer",M.Tech,11.1,2026-01-27,Referral,Passed,Selected,Rejected,89,27978,12
+C1278,43,Male,Hr,"HR Executive",B.Sc,4.1,2025-08-02,LinkedIn,Failed,Selected,Hired,61,34422,49
+C1279,26,Female,IT,"Data Analyst",MBA,6.3,2025-03-29,Naukri,Passed,Rejected,Rejected,88,68626,44
+C1280,44,Male,Operations,"Operations Executive",B.Sc,2.5,2026-07-07,Referral,Passed,Pending,Rejected,61,114233,58
+C1281,39,Female,Marketing,"Marketing Executive",B.Com,11.9,2026-02-05,LinkedIn,Failed,Rejected,Rejected,46,81174,18
+C1282,25,Female,Sales,"Sales Analyst",MCA,11.8,2026-08-11,"Company Website",Passed,Rejected,Rejected,98,62743,63
+C1283,24,Female,Sales,"Sales Analyst",M.Tech,7.8,2025-02-15,Referral,Failed,Selected,Rejected,79,95461,57
+C1284,35,Male,Finance,Accountant,B.Com,9.7,2026-04-08,"Campus Hiring",Failed,Rejected,Pending,67,82199,31
+C1285,24,Male,IT,"QA Engineer",B.Tech,8.6,2026-08-15,"Campus Hiring",Passed,Rejected,Hired,64,54430,51
+C1286,40,Female,IT,"QA Engineer",M.Tech,7.1,2025-11-06,"Campus Hiring",Passed,Rejected,Hired,59,53834,84
+C1287,30,Female,Finance,Accountant,B.Com,0.6,2025-03-27,Naukri,Passed,Selected,Hired,99,49435,10
+C1288,44,Female,Finance,"Finance Executive",MBA,5.5,2025-04-02,Referral,Passed,Selected,Rejected,48,112212,59
+C1289,42,Male,Finance,"Financial Analyst",M.Tech,8.1,2025-08-30,"Company Website",Passed,Selected,Rejected,59,80797,48
+C1290,23,Female,Marketing,"Marketing Executive",M.Tech,8.1,2025-01-02,Referral,Passed,Rejected,Pending,69,68554,22
+C1291,25,Male,Operations,"Operations Analyst",B.Sc,4.5,2025-08-13,Naukri,Passed,Pending,Rejected,69,79555,20
+C1294,42,Female,Finance,"Financial Analyst",MCA,6,2025-04-13,"Campus Hiring",Failed,Rejected,Hired,49,85261,49
+C1295,28,Male,IT,"QA Engineer",B.Com,8.3,2025-07-13,LinkedIn,Failed,Pending,Pending,55,52528,68
+C1296,27,Male,Marketing,"Marketing Executive",B.Sc,8.4,2025-06-15,"Campus Hiring",Passed,Selected,Rejected,95,26995,63
+C1297,41,Female,Operations,"Operations Analyst",B.Com,7.8,2025-03-31,Indeed,Failed,Rejected,Rejected,47,47414,26
+C1298,30,Male,Marketing,"Marketing Analyst",B.Tech,3.3,2025-05-02,Naukri,Passed,Pending,Rejected,85,38844,51
+C1299,26,Female,Operations,"Process Associate",B.Tech,1.9,2025-05-23,Naukri,Failed,Selected,Rejected,85,61659,33
+C1300,34,Male,Finance,"Financial Analyst",M.Tech,7.6,2025-04-16,"Company Website",Failed,Pending,Hired,89,350000,90
+C1301,24,Male,Operations,"Operations Analyst",B.Tech,7.2,2026-03-04,Referral,Passed,Pending,Rejected,93,99034,49
+C1302,45,Male,IT,"Data Analyst",B.Com,2.2,2025-11-01,LinkedIn,Passed,Rejected,Rejected,56,67322,81
+C1303,33,Female,Finance,"Finance Executive",MBA,8.5,2025-11-13,LinkedIn,Failed,Pending,Pending,53,92638,13
+C1304,40,Male,IT,"Data Analyst",MBA,5.5,2025-01-09,"Company Website",Failed,Rejected,Rejected,68,33524,28
+C1305,37,Male,Sales,"Sales Executive",M.Tech,8,2025-03-14,"Company Website",Failed,Rejected,Pending,56,55846,19
+C1306,43,Female,Hr,Recruiter,MCA,10,2025-12-25,Referral,Passed,Selected,Rejected,84,98643,40
+C1307,27,Female,Operations,"Operations Analyst",B.Com,2,2025-08-11,"Campus Hiring",Passed,Selected,Rejected,78,85096,17
+C1308,24,Female,Hr,"HR Analyst",B.Com,0.2,2026-02-20,Referral,Passed,Selected,Rejected,92,108804,48
+C1309,34,Female,Hr,"HR Executive",B.Tech,9.3,2026-07-07,Naukri,Failed,Rejected,Rejected,45,72703,75
+C1311,44,Male,Finance,"Financial Analyst",B.Sc,8.4,2025-09-21,Indeed,Failed,Selected,Rejected,58,100160,82
+C1312,25,Female,Sales,"Sales Analyst",MCA,10.1,2025-11-14,Referral,Passed,Selected,Rejected,69,117662,80
+C1313,36,Male,IT,"QA Engineer",B.Tech,9.6,2025-03-25,"Company Website",Passed,Rejected,Hired,66,113667,40
+C1315,40,Female,IT,"Software Developer",M.Tech,6.4,2025-04-21,Referral,Failed,Pending,Rejected,65,45714,85
+C1316,24,Male,Marketing,"Digital Marketer",MBA,5.9,2025-09-08,LinkedIn,Passed,Rejected,Rejected,97,60877,44
+C1317,44,Male,IT,"Data Analyst",M.Tech,4.8,2026-01-18,Indeed,Passed,Pending,Hired,94,109106,31
+C1318,44,Male,Operations,"Operations Executive",MBA,1.8,2025-01-07,Naukri,Passed,Rejected,Hired,92,103018,5
+C1320,38,Female,Marketing,"Marketing Executive",B.Com,3.3,2025-03-25,LinkedIn,Passed,Rejected,Hired,91,58414,72
+C1321,39,Male,Finance,Accountant,B.Sc,11.1,2025-07-27,Indeed,Failed,Selected,Rejected,87,111576,25
+C1322,39,Female,IT,"QA Engineer",MBA,7,2026-01-25,Naukri,Passed,Pending,Pending,46,103943,37
+C1324,34,Female,Marketing,"Marketing Analyst",B.Sc,4.3,2025-01-22,"Campus Hiring",Failed,Rejected,Rejected,46,104702,69
+C1325,39,Female,Finance,"Financial Analyst",B.Tech,0.6,2026-02-14,Naukri,Failed,Rejected,Rejected,41,97108,7
+C1327,44,Female,Operations,"Operations Executive",B.Sc,5.1,2025-05-07,LinkedIn,Passed,Selected,Pending,98,71835,83
+C1328,33,Male,Operations,"Process Associate",M.Tech,1,2025-01-14,Referral,Failed,Rejected,Hired,66,88333,58
+C1329,32,Male,Operations,"Process Associate",Unknown,7.3,2025-01-12,"Company Website",Failed,Selected,Rejected,72,67464,84
+C1330,26,Male,Operations,"Process Associate",MBA,10.6,2025-03-28,Referral,Failed,Rejected,Rejected,98,47923,78
+C1331,41,Female,Operations,"Operations Executive",B.Sc,10.6,2026-06-08,Naukri,Passed,Rejected,Hired,55,86855,63
+C1332,24,Male,Operations,"Operations Executive",B.Com,7.9,2026-06-21,Referral,Passed,Rejected,Rejected,92,92445,10
+C1333,39,Male,Sales,"Sales Executive",B.Com,2.5,2025-10-28,"Company Website",Failed,Rejected,Rejected,73,92619,33
+C1334,36,Female,Finance,"Financial Analyst",B.Tech,10.4,2025-08-31,"Company Website",Passed,Rejected,Rejected,74,71146,21
+C1335,33,Male,Operations,"Process Associate",B.Tech,10.6,2025-05-02,"Company Website",Passed,Rejected,Rejected,61,85032,64
+C1336,24,Female,Finance,"Finance Executive",M.Tech,30,2025-05-27,Naukri,Failed,Rejected,Hired,74,42140,26
+C1337,43,Female,Finance,Accountant,B.Sc,8.8,2026-07-21,"Company Website",Passed,Rejected,Rejected,44,27670,28
+C1338,37,Female,Hr,Recruiter,B.Tech,3.4,2025-12-22,LinkedIn,Passed,Rejected,Hired,86,61519,85
+C1339,43,Male,Sales,"Sales Executive",B.Tech,9.6,2025-11-05,"Company Website",Passed,Pending,Rejected,57,69512,89
+C1340,21,Male,Operations,"Process Associate",Unknown,12,2025-10-15,Referral,Passed,Selected,Hired,93,82811,55
+C1341,38,Male,IT,"QA Engineer",B.Sc,0.4,2025-11-03,"Campus Hiring",Passed,Rejected,Rejected,62,39691,54
+C1342,40,Male,Marketing,"Marketing Analyst",M.Tech,10.8,2026-08-17,Referral,Failed,Pending,Rejected,49,59262,15
+C1343,37,Female,it,"Software Developer",B.Tech,7.5,2026-07-03,"Campus Hiring",Passed,Rejected,Rejected,82,79892,60
+C1344,35,Female,Sales,"Business Development Executive",M.Tech,11.7,2025-12-18,Referral,Passed,Selected,Pending,50,50595,75
+C1345,31,Male,Marketing,"Marketing Analyst",MBA,5.6,2025-11-08,Naukri,Failed,Rejected,Pending,85,82207,46
+C1346,45,Female,Sales,"Sales Analyst",M.Tech,10.2,2025-02-28,Referral,Passed,Selected,Rejected,98,58440,43
+C1347,42,Female,Finance,"Finance Executive",B.Com,0.7,2025-02-04,Naukri,Passed,Selected,Rejected,87,33630,73
+C1349,21,Female,Finance,"Finance Executive",M.Tech,0.8,2025-04-03,"Company Website",Failed,Rejected,Rejected,76,119334,61
+C1350,37,Male,IT,"QA Engineer",B.Com,11.7,2025-07-26,LinkedIn,Failed,Selected,Hired,82,102518,25
+C1351,26,Female,IT,"Data Analyst",MBA,9.8,2025-12-19,"Campus Hiring",Failed,Pending,Hired,90,99191,86
+C1352,24,Male,Marketing,"Marketing Executive",B.Sc,10.2,2025-11-28,"Company Website",Passed,Pending,Pending,43,89791,24
+C1353,40,Female,Marketing,"Digital Marketer",B.Com,11.3,2025-06-08,LinkedIn,Failed,Rejected,Rejected,69,109118,19
+C1354,36,Female,Operations,"Process Associate",B.Com,1,2025-01-24,Naukri,Passed,Selected,Rejected,72,88753,73
+C1355,35,Male,Sales,"Sales Analyst",M.Tech,4.6,2026-02-08,Naukri,Failed,Pending,Rejected,50,85520,81
+C1356,35,Male,Operations,"Operations Executive",MBA,0.9,2026-05-31,"Campus Hiring",Passed,Rejected,Rejected,59,29008,55
+C1357,26,Male,Sales,"Business Development Executive",B.Sc,2.5,2025-12-30,Referral,Passed,Rejected,Hired,66,69464,80
+C1358,35,Male,Operations,"Operations Executive",M.Tech,2.8,2026-01-17,Referral,Passed,Pending,Hired,90,25496,66
+C1359,34,Female,Finance,"Financial Analyst",M.Tech,5.6,2026-06-16,"Company Website",Passed,Rejected,Hired,96,48212,89
+C1360,31,Female,Marketing,"Marketing Executive",MCA,3.2,2025-06-01,Indeed,Failed,Selected,Rejected,78,45637,41
+C1361,27,Male,IT,"Data Analyst",MBA,1.2,2026-07-16,Indeed,Passed,Rejected,Rejected,64,70227,10
+C1362,29,Female,Sales,"Sales Analyst",B.Sc,2,2026-08-31,Referral,Passed,Selected,Hired,55,107413,75
+C1363,36,Male,Sales,"Sales Analyst",MBA,20,2026-02-24,Indeed,Passed,Rejected,Rejected,99,108346,30
+C1364,25,Male,IT,"Data Analyst",B.Sc,11.7,2025-09-07,Referral,Passed,Rejected,Hired,99,34884,12
+C1365,45,Female,Operations,"Operations Analyst",MBA,9.1,2025-04-27,LinkedIn,Failed,Selected,Rejected,95,93259,77
+C1366,40,Female,Sales,"Business Development Executive",Unknown,11.6,2026-05-27,"Company Website",Failed,Rejected,Pending,87,74810,8
+C1367,30,Male,Finance,Accountant,M.Tech,5.3,2026-08-01,LinkedIn,Failed,Selected,Rejected,60,29761,25
+C1368,38,Male,Marketing,"Digital Marketer",B.Tech,3.3,2025-12-01,"Company Website",Failed,Selected,Pending,89,98166,35
+C1369,23,Male,IT,"Data Analyst",B.Com,9.6,2026-02-22,Referral,Failed,Rejected,Pending,65,41375,25
+C1370,33,Female,Marketing,"Marketing Analyst",MCA,3.9,2025-10-22,Referral,Passed,Selected,Rejected,60,50218,29
+C1371,31,Female,Sales,"Business Development Executive",MBA,3.6,2026-01-06,"Company Website",Passed,Rejected,Rejected,85,55565,19
+C1372,37,Female,Sales,"Sales Executive",MCA,2.8,2025-07-05,"Campus Hiring",Failed,Selected,Pending,45,57975,39
+C1373,42,Female,IT,"Software Developer",B.Tech,1.6,2025-09-03,Referral,Passed,Rejected,Rejected,43,52073,53
+C1374,33,Male,Finance,Accountant,B.Com,3.1,2025-09-25,Indeed,Failed,Pending,Hired,67,94726,47
+C1376,37,Male,IT,"QA Engineer",B.Sc,8.1,2026-06-14,Referral,Passed,Rejected,Rejected,94,93422,41
+C1377,33,Male,Hr,"HR Analyst",B.Com,0.8,2026-07-06,Referral,Passed,Pending,Hired,48,74629,61
+C1378,39,Male,Operations,"Operations Executive",M.Tech,2.5,2025-01-21,"Campus Hiring",Passed,Selected,Rejected,47,89170,46
+C1379,41,Male,Hr,"HR Analyst",B.Tech,9.7,2026-06-04,Indeed,Failed,Selected,Rejected,49,99489,51
+C1380,65,Female,Finance,"Financial Analyst",B.Com,1.8,2025-04-10,Referral,Passed,Rejected,Rejected,42,33381,65
+C1381,30,Female,Operations,"Operations Executive",B.Com,4.1,2026-04-23,Referral,Passed,Selected,Rejected,44,48238,18
+C1382,23,Male,Hr,"HR Executive",M.Tech,10.4,2026-08-22,"Campus Hiring",Failed,Pending,Rejected,80,38795,72
+C1383,34,Male,Operations,"Process Associate",MBA,1.9,2025-10-25,"Campus Hiring",Passed,Selected,Rejected,66,87999,57
+C1385,25,Female,Finance,Accountant,M.Tech,5.8,2025-11-30,"Campus Hiring",Failed,Rejected,Rejected,100,34638,38
+C1386,25,Female,Hr,"HR Analyst",B.Sc,3.6,2025-01-02,LinkedIn,Failed,Selected,Rejected,80,95467,80
+C1387,40,Female,Hr,"HR Analyst",MBA,6.8,2026-01-10,Indeed,Passed,Rejected,Rejected,43,67623,28
+C1388,37,Male,Hr,"HR Analyst",Unknown,9.6,2025-10-20,"Company Website",Passed,Selected,Rejected,46,63492,24
+C1389,41,Male,IT,"QA Engineer",B.Sc,1.6,2026-07-07,Naukri,Passed,Rejected,Rejected,93,51411,73
+C1390,30,Male,IT,"Software Developer",B.Tech,7,2025-11-14,Referral,Passed,Selected,Pending,72,45534,34
+C1391,25,Male,IT,"QA Engineer",B.Tech,6.1,2026-05-17,Naukri,Passed,Pending,Hired,89,54181,11
+C1393,26,Female,Operations,"Operations Executive",MBA,7.5,2025-01-14,"Campus Hiring",Passed,Selected,Rejected,96,97089,42
+C1394,24,Male,Sales,"Sales Analyst",M.Tech,3.3,2026-05-19,Referral,Passed,Selected,Pending,97,108609,84
+C1395,27,Female,Hr,Recruiter,M.Tech,5.9,2025-08-19,Naukri,Passed,Rejected,Hired,73,97666,56
+C1396,27,Male,Hr,Recruiter,MCA,1,2025-03-25,"Company Website",Passed,Selected,Hired,60,54405,19
+C1397,38,Male,Finance,Accountant,M.Tech,5.5,2025-05-10,LinkedIn,Failed,Pending,Hired,98,96325,50
+C1398,23,Male,Hr,Recruiter,MCA,3.7,2025-05-25,"Company Website",Failed,Rejected,Rejected,73,53930,27
+C1399,21,Male,IT,"QA Engineer",B.Tech,9.9,2025-01-28,Indeed,Passed,Rejected,Hired,44,42529,16
+C1400,44,Male,Sales,"Sales Analyst",B.Tech,0.7,2025-03-07,"Campus Hiring",Passed,Pending,Rejected,79,78546,48
+C1401,45,Female,Marketing,"Digital Marketer",M.Tech,5,2025-06-12,"Campus Hiring",Passed,Rejected,Rejected,75,32942,19
+C1403,26,Female,IT,"QA Engineer",MBA,8.7,2025-09-18,Referral,Passed,Pending,Rejected,79,43296,25
+C1404,29,Male,Marketing,"Digital Marketer",MCA,6.9,2026-03-25,Referral,Passed,Selected,Hired,61,76016,19
+C1405,42,Female,Sales,"Sales Executive",MCA,8,2026-02-28,Naukri,Passed,Selected,Rejected,98,25296,18
+C1406,34,Female,Marketing,"Digital Marketer",M.Tech,9.3,2026-05-04,Naukri,Failed,Pending,Pending,88,92945,46
+C1407,32,Male,IT,"Software Developer",B.Tech,10.3,2025-10-28,"Campus Hiring",Passed,Pending,Rejected,78,84980,84
+C1408,45,Male,Operations,"Operations Executive",B.Sc,3.8,2025-10-30,Naukri,Passed,Selected,Pending,58,81782,19
+C1409,40,Female,Operations,"Operations Executive",MCA,6.5,2025-10-14,LinkedIn,Failed,Pending,Pending,62,59229,67
+C1410,44,Male,Marketing,"Marketing Analyst",M.Tech,10.1,2026-01-30,Naukri,Passed,Rejected,Hired,80,78444,72
+C1411,45,Female,Finance,"Finance Executive",M.Tech,11.9,2025-01-10,LinkedIn,Passed,Selected,Rejected,44,60036,31
+C1412,24,Male,Marketing,"Marketing Executive",MBA,10.7,2025-09-27,Naukri,Passed,Pending,Rejected,55,64322,57
+C1413,41,Female,Hr,"HR Executive",B.Com,4.5,2026-08-15,"Campus Hiring",Passed,Selected,Rejected,83,52167,56
+C1414,44,Male,Hr,"HR Analyst",B.Com,2.3,2026-08-28,"Campus Hiring",Failed,Pending,Hired,69,76667,67
+C1415,32,Male,Operations,"Operations Analyst",MCA,5.9,2025-12-27,LinkedIn,Passed,Selected,Rejected,64,119527,77
+C1417,42,Male,IT,"QA Engineer",MBA,5.9,2025-05-13,"Campus Hiring",Passed,Selected,Hired,67,76468,61
+C1418,27,Male,Hr,Recruiter,MBA,5.8,2025-10-03,"Company Website",Passed,Rejected,Pending,86,97894,56
+C1419,23,Female,Operations,"Operations Executive",MCA,10.1,2026-05-28,Referral,Failed,Rejected,Hired,56,78084,47
+C1420,43,Male,Sales,"Business Development Executive",B.Com,4.3,2025-11-09,LinkedIn,Failed,Selected,Hired,40,88138,11
+C1421,34,Female,Operations,"Process Associate",Unknown,10.3,2026-07-30,"Campus Hiring",Passed,Rejected,Pending,80,47588,46
+C1422,44,Male,Hr,"HR Executive",B.Tech,4.9,2025-10-11,Indeed,Passed,Rejected,Rejected,98,87901,8
+C1423,30,Male,Hr,Recruiter,M.Tech,3.9,2025-05-01,Referral,Passed,Selected,Rejected,76,42671,73
+C1424,36,Male,Operations,"Operations Executive",M.Tech,5.4,2025-04-17,"Company Website",Failed,Pending,Hired,47,108038,9
+C1425,36,Male,IT,"Software Developer",Unknown,9.1,2025-07-23,"Campus Hiring",Passed,Selected,Rejected,59,115664,79
+C1426,42,Female,Marketing,"Marketing Analyst",B.Sc,1.5,2025-06-14,LinkedIn,Passed,Rejected,Rejected,92,56645,84
+C1427,30,Male,Hr,"HR Analyst",MCA,2.4,2025-11-01,Naukri,Passed,Rejected,Rejected,54,32637,45
+C1428,45,Female,Operations,"Operations Executive",MCA,11.4,2026-05-12,Indeed,Passed,Rejected,Rejected,76,25660,8
+C1429,33,Male,Operations,"Operations Analyst",M.Tech,2.1,2026-07-10,"Company Website",Passed,Selected,Pending,64,31922,6
+C1430,26,Male,Finance,"Financial Analyst",B.Tech,6.8,2025-06-05,Referral,Passed,Rejected,Rejected,52,118697,71
+C1431,32,Male,Marketing,"Marketing Executive",B.Com,7,2026-01-02,LinkedIn,Passed,Rejected,Pending,89,69721,25
+C1432,29,Male,Sales,"Business Development Executive",B.Com,5.9,2025-09-08,Indeed,Passed,Rejected,Rejected,85,82256,74
+C1433,33,Female,IT,"Software Developer",MCA,7.7,2025-11-30,LinkedIn,Passed,Pending,Rejected,80,94506,47
+C1434,24,Female,Sales,"Business Development Executive",B.Tech,2.8,2026-05-26,"Campus Hiring",Failed,Rejected,Hired,54,93943,86
+C1435,44,Female,Marketing,"Marketing Analyst",MCA,6.6,2025-10-20,Naukri,Passed,Selected,Rejected,46,52843,73
+C1436,31,Female,Marketing,"Marketing Executive",B.Com,4.5,2025-01-20,Referral,Passed,Selected,Pending,75,34046,13
+C1437,40,Male,Marketing,"Marketing Executive",MCA,7.9,2025-10-09,LinkedIn,Failed,Selected,Hired,73,114336,88
+C1438,38,Female,Sales,"Sales Analyst",MBA,1.7,2025-01-01,"Company Website",Passed,Selected,Hired,51,88985,32
+C1439,31,Female,Marketing,"Digital Marketer",MCA,6.9,2025-04-29,"Campus Hiring",Passed,Rejected,Rejected,43,105083,30
+C1440,45,Male,Operations,"Process Associate",M.Tech,2.2,2025-02-04,"Campus Hiring",Failed,Selected,Hired,45,55346,86
+C1441,41,Male,Sales,"Sales Analyst",MCA,3.3,2025-07-17,Referral,Passed,Selected,Pending,100,113284,87
+C1442,24,Male,Marketing,"Marketing Analyst",M.Tech,2.6,2026-04-30,"Campus Hiring",Failed,Selected,Pending,87,116384,7
+C1443,38,Male,Operations,"Operations Executive",B.Tech,2.2,2025-02-28,"Company Website",Passed,Selected,Rejected,95,78526,77
+C1444,21,Female,Finance,"Finance Executive",B.Com,9.9,2025-06-10,LinkedIn,Passed,Selected,Hired,52,98143,53
+C1445,27,Female,Marketing,"Marketing Executive",B.Sc,3.4,2025-07-25,Referral,Passed,Selected,Rejected,98,61787,21
+C1446,26,Male,Sales,"Sales Executive",B.Sc,30,2025-01-12,LinkedIn,Passed,Rejected,Rejected,49,58583,67
+C1447,35,Male,Hr,"HR Executive",B.Com,11.6,2026-05-05,"Campus Hiring",Failed,Rejected,Pending,71,37563,59
+C1448,38,Male,Marketing,"Digital Marketer",B.Sc,6.9,2025-10-03,"Company Website",Failed,Selected,Rejected,90,71060,27
+C1449,44,Female,Hr,"HR Executive",MCA,1.7,2025-08-30,Naukri,Failed,Rejected,Rejected,61,58690,38
+C1450,31,Female,Operations,"Operations Executive",B.Tech,4.5,2025-08-04,Naukri,Failed,Selected,Rejected,65,119712,73
+C1451,40,Male,Finance,Accountant,B.Tech,9.6,2025-09-08,"Campus Hiring",Failed,Selected,Pending,48,39925,19
+C1452,44,Male,"Human Resources","Data Analyst",B.Com,4.4,2025-05-06,LinkedIn,Passed,Selected,Rejected,47,111787,51
+C1453,35,Female,Finance,"Finance Executive",B.Sc,1,2025-08-05,Referral,Passed,Rejected,Rejected,77,108184,7
+C1454,36,Male,Marketing,"Marketing Analyst",MCA,6.7,2025-11-02,"Campus Hiring",Passed,Rejected,Hired,81,45108,87
+C1456,41,Female,Hr,Recruiter,B.Tech,9.6,2025-02-08,Referral,Failed,Selected,Rejected,73,93258,7
+C1457,30,Male,Sales,"Sales Analyst",MBA,2.1,2025-11-08,Naukri,Passed,Pending,Rejected,79,30355,8
+C1458,32,Female,Hr,Recruiter,MBA,8.1,2025-07-03,"Campus Hiring",Passed,Selected,Rejected,41,71069,35
+C1459,44,Male,Sales,"Business Development Executive",B.Tech,2.6,2026-05-10,"Company Website",Passed,Selected,Rejected,50,119335,49
+C1461,45,Female,IT,"Software Developer",M.Tech,10.5,2025-06-27,"Campus Hiring",Passed,Pending,Hired,45,57705,49
+C1462,25,Female,Marketing,"Marketing Analyst",M.Tech,3,2026-03-04,LinkedIn,Passed,Rejected,Rejected,81,68909,79
+C1463,41,Male,Sales,"Business Development Executive",MCA,25,2025-10-21,Indeed,Passed,Rejected,Rejected,51,113606,41
+C1464,38,Female,IT,"QA Engineer",B.Tech,0,2025-05-31,"Campus Hiring",Passed,Selected,Hired,83,78739,69
+C1465,25,Male,Hr,"HR Executive",B.Tech,10.4,2026-01-19,LinkedIn,Passed,Selected,Rejected,82,101820,13
+C1468,25,Male,Hr,"HR Analyst",MBA,9,2026-01-10,LinkedIn,Passed,Rejected,Rejected,79,52414,7
+C1469,44,Male,Operations,"Process Associate",B.Tech,1.8,2025-01-08,Indeed,Passed,Pending,Rejected,63,75818,30
+C1470,37,Female,Operations,"Operations Analyst",B.Tech,5.5,2025-12-07,LinkedIn,Passed,Pending,Rejected,52,45895,57
+C1471,39,Female,IT,"Data Analyst",B.Sc,4.2,2025-05-09,LinkedIn,Passed,Selected,Hired,84,117307,35
+C1473,45,Female,Sales,"Business Development Executive",MCA,5.8,2025-12-24,Indeed,Passed,Rejected,Hired,91,80324,27
+C1474,41,Female,IT,"Data Analyst",B.Tech,11,2026-06-01,"Campus Hiring",Passed,Pending,Rejected,71,91920,34
+C1475,32,Female,Sales,"Sales Executive",B.Sc,0.5,2026-05-10,Referral,Passed,Selected,Rejected,46,78555,14
+C1476,45,Female,Sales,"Sales Executive",M.Tech,3.5,2025-03-27,"Company Website",Failed,Selected,Rejected,82,90453,76
+C1478,21,Male,Sales,"Sales Analyst",B.Tech,2.9,2025-07-12,LinkedIn,Failed,Selected,Rejected,58,89356,26
+C1479,38,Male,Finance,"Finance Executive",B.Tech,10.9,2025-11-07,"Company Website",Passed,Selected,Hired,65,118011,19
+C1480,41,Female,Marketing,"Digital Marketer",B.Sc,5.6,2025-04-29,Naukri,Passed,Rejected,Rejected,58,33252,60
+C1482,30,Female,Finance,Accountant,B.Tech,9.1,2026-03-03,Indeed,Passed,Selected,Pending,50,48365,24
+C1483,45,Female,Sales,"Sales Executive",M.Tech,1.9,2026-02-18,"Company Website",Passed,Rejected,Hired,62,31026,51
+C1484,27,Female,Operations,"Operations Executive",B.Tech,5.8,2025-04-24,LinkedIn,Passed,Selected,Rejected,55,53523,57
+C1485,42,Female,IT,"QA Engineer",M.Tech,5.2,2025-05-25,"Company Website",Passed,Pending,Pending,81,35482,57
+C1486,43,Female,Sales,"Sales Executive",MCA,7.2,2026-06-22,Referral,Passed,Pending,Rejected,81,73888,5
+C1487,21,Male,Operations,"Operations Executive",MCA,12,2025-10-30,"Campus Hiring",Passed,Pending,Rejected,70,75110,6
+C1488,37,Male,Marketing,"Marketing Executive",MBA,9.2,2026-08-11,LinkedIn,Passed,Pending,Pending,87,115644,62
+C1489,44,Female,Sales,"Business Development Executive",MBA,4.8,2025-12-11,"Company Website",Passed,Selected,Pending,90,25493,23
+C1490,22,Female,IT,"Software Developer",M.Tech,9.9,2025-01-01,LinkedIn,Passed,Selected,Rejected,75,81194,66
+C1491,31,Female,Operations,"Process Associate",B.Com,2,2025-05-27,"Campus Hiring",Failed,Rejected,Rejected,77,107001,82
+C1492,29,Male,Operations,"Operations Executive",B.Tech,0.4,2025-10-14,Indeed,Failed,Pending,Rejected,57,64767,76
+C1493,27,Male,Operations,"Operations Executive",B.Tech,2.5,2025-02-22,LinkedIn,Failed,Selected,Rejected,94,54550,16
+C1494,42,Female,Marketing,"Marketing Analyst",MBA,4.1,2025-10-31,Naukri,Passed,Selected,Rejected,41,38833,30
+C1495,37,Female,Sales,"Sales Executive",M.Tech,6.1,2025-03-10,Referral,Failed,Pending,Hired,61,27970,31
+C1496,37,Male,Marketing,"Marketing Executive",B.Tech,7.4,2025-12-27,Naukri,Failed,Selected,Rejected,83,107681,33
+C1497,22,Male,Hr,Recruiter,B.Tech,10.9,2026-08-25,Referral,Passed,Rejected,Hired,45,74177,19
+C1498,26,Male,Hr,"HR Analyst",B.Com,6.1,2025-08-08,"Company Website",Passed,Rejected,Rejected,51,92342,50
+C1499,34,Male,Sales,"Sales Analyst",B.Sc,6,2026-07-29,Indeed,Failed,Selected,Rejected,75,96200,5
+C1500,26,Female,Marketing,"Marketing Analyst",MBA,0.6,2026-08-08,"Company Website",Passed,Selected,Rejected,74,86501,64
+C1501,22,Male,"Human Resources","QA Engineer",MBA,0.4,2025-06-10,Referral,Passed,Rejected,Rejected,84,53900,61
+C1503,30,Male,Operations,"Operations Analyst",B.Tech,5.3,2026-08-08,Referral,Passed,Pending,Hired,48,95690,22
+C1504,41,Male,Sales,"Sales Executive",B.Com,10.1,2026-08-12,"Campus Hiring",Failed,Selected,Rejected,41,112744,56
+C1505,25,Male,Hr,"HR Executive",B.Com,1.9,2025-06-08,LinkedIn,Passed,Selected,Pending,81,104303,64
+C1506,22,Male,Hr,"HR Executive",MBA,0.3,2026-05-04,Indeed,Passed,Rejected,Rejected,58,110579,38
+C1507,42,Female,Operations,"Operations Executive",B.Com,5.4,2025-11-20,"Company Website",Passed,Rejected,Rejected,78,72994,64
+C1508,36,Male,Sales,"Business Development Executive",MCA,2.8,2026-01-16,"Company Website",Passed,Selected,Pending,49,92061,30
+C1509,45,Female,Marketing,"Marketing Analyst",B.Sc,0.6,2025-04-12,Naukri,Passed,Rejected,Hired,68,41978,76
+C1510,22,Female,Hr,Recruiter,B.Tech,8.7,2026-05-09,Referral,Passed,Selected,Rejected,70,81344,23
+C1511,30,Male,Marketing,"Marketing Executive",MCA,1.3,2025-01-19,Referral,Failed,Selected,Rejected,75,71648,26
+C1512,22,Male,Hr,Recruiter,B.Sc,7.3,2026-03-30,Referral,Passed,Selected,Hired,71,26055,37
+C1513,36,Male,Hr,"HR Analyst",M.Tech,3.4,2026-04-27,"Company Website",Passed,Rejected,Pending,70,100582,42
+C1514,36,Male,Finance,"Finance Executive",MBA,2.1,2026-08-17,Naukri,Failed,Rejected,Pending,60,106214,39
+C1515,39,Female,Hr,Recruiter,B.Com,4.6,2026-02-01,LinkedIn,Passed,Rejected,Rejected,44,69876,71
+C1516,27,Male,IT,"Software Developer",M.Tech,9.6,2025-10-06,"Campus Hiring",Failed,Rejected,Hired,45,117160,87
+C1517,42,Male,Sales,"Business Development Executive",B.Com,4.7,2025-12-31,Indeed,Failed,Pending,Hired,66,63725,14
+C1518,32,Male,Sales,"Sales Executive",MCA,9,2025-11-27,LinkedIn,Failed,Selected,Rejected,61,30255,19
+C1519,44,Female,Marketing,"Digital Marketer",B.Tech,1.5,2025-12-10,"Company Website",Passed,Selected,Hired,71,99947,15
+C1520,35,Male,Hr,Recruiter,B.Tech,9.3,2026-03-31,"Campus Hiring",Passed,Selected,Rejected,58,78380,28
+C1521,80,Male,IT,"Software Developer",B.Tech,2.8,2026-08-24,"Campus Hiring",Passed,Selected,Rejected,81,78333,81
+C1522,26,Female,Marketing,"Marketing Analyst",B.Com,8.1,2025-03-06,"Campus Hiring",Passed,Rejected,Rejected,92,67459,8
+C1523,30,Female,Finance,"Finance Executive",M.Tech,6.8,2025-03-17,Referral,Failed,Rejected,Rejected,58,61163,17
+C1524,23,Male,Marketing,"Marketing Executive",B.Tech,11.1,2025-05-23,Indeed,Failed,Rejected,Rejected,52,58971,77
+C1525,39,Male,Marketing,"Marketing Executive",M.Tech,4.6,2026-08-28,"Company Website",Failed,Selected,Hired,47,90149,61
+C1526,37,Male,Hr,"HR Analyst",B.Com,0.8,2026-04-18,"Company Website",Failed,Selected,Rejected,77,109730,41
+C1527,27,Male,Finance,"Finance Executive",MCA,0.2,2026-02-21,"Campus Hiring",Failed,Rejected,Rejected,67,44476,52
+C1528,41,Male,Marketing,"Marketing Analyst",M.Tech,9.9,2025-11-01,"Company Website",Passed,Selected,Rejected,51,93580,75
+C1529,40,Female,IT,"Software Developer",MCA,6.3,2026-12-05,Indeed,Passed,Rejected,Rejected,79,111593,5
+C1530,24,Female,IT,"Software Developer",B.Com,9.3,2025-10-18,Indeed,Failed,Pending,Rejected,49,94050,64
+C1531,34,Male,Sales,"Sales Analyst",B.Com,2.8,2025-04-12,Naukri,Passed,Rejected,Pending,73,100526,16
+C1532,40,Male,Finance,Accountant,MBA,4.1,2025-09-24,Naukri,Passed,Rejected,Rejected,72,32507,25
+C1533,42,Female,Finance,Accountant,B.Com,0.4,2025-01-03,LinkedIn,Passed,Rejected,Hired,84,95393,15
+C1536,28,Male,Finance,"Finance Executive",B.Tech,11.2,2026-03-26,Indeed,Failed,Selected,Rejected,82,93682,48
+C1537,41,Male,IT,"Software Developer",MBA,3.2,2026-03-30,Naukri,Failed,Selected,Pending,53,116937,82
+C1538,35,Male,IT,"QA Engineer",MBA,7.3,2025-08-09,"Campus Hiring",Passed,Rejected,Rejected,51,79176,38
+C1539,42,Female,Hr,"HR Executive",Unknown,8.1,2025-03-06,"Campus Hiring",Passed,Pending,Pending,66,116713,29
+C1540,40,Male,Finance,"Financial Analyst",B.Sc,3.8,2025-01-12,"Company Website",Passed,Selected,Pending,89,29414,8
+C1541,34,Male,Marketing,"Marketing Executive",MCA,10.2,2025-05-13,"Campus Hiring",Failed,Rejected,Hired,91,108030,68
+C1542,29,Male,Sales,"Sales Analyst",B.Com,11.4,2025-10-31,Referral,Failed,Pending,Rejected,71,110973,20
+C1543,28,Female,Sales,"Sales Analyst",B.Tech,10.6,2025-10-20,Naukri,Failed,Pending,Rejected,92,87137,14
+C1544,37,Female,Marketing,"Marketing Analyst",M.Tech,8.9,2025-10-27,Indeed,Passed,Rejected,Hired,40,28937,70
+C1545,22,Female,Operations,"Process Associate",MCA,3.3,2025-02-12,"Campus Hiring",Passed,Selected,Rejected,42,61731,39
+C1546,45,Female,Hr,"HR Analyst",B.Com,3.4,2025-12-09,Naukri,Passed,Pending,Rejected,95,350000,87
+C1547,44,Female,Sales,"Sales Executive",B.Sc,11.6,2025-11-22,"Campus Hiring",Failed,Selected,Hired,87,63665,10
+C1549,28,Male,Hr,"HR Executive",B.Com,8.6,2025-12-30,Indeed,Passed,Selected,Rejected,85,42500,63
+C1550,32,Male,Finance,"Finance Executive",B.Sc,8.5,2026-03-03,LinkedIn,Passed,Rejected,Hired,97,26750,57
+C1552,30,Female,Hr,"HR Analyst",MBA,11.9,2026-02-11,Naukri,Passed,Rejected,Hired,91,29027,82
+C1553,40,Female,Sales,"Sales Analyst",B.Tech,3.7,2025-12-02,"Company Website",Passed,Selected,Rejected,86,350000,14
+C1554,23,Female,Hr,"HR Executive",Unknown,4.1,2025-04-27,"Campus Hiring",Passed,Selected,Hired,50,86731,71
+C1555,26,Female,Hr,"HR Analyst",MBA,0.9,2025-05-04,"Campus Hiring",Passed,Rejected,Pending,90,111984,42
+C1556,27,Male,Hr,Recruiter,MCA,5.3,2026-02-03,Referral,Failed,Pending,Rejected,52,53451,33
+C1557,40,Female,Operations,"Process Associate",M.Tech,3.1,2025-02-20,LinkedIn,Failed,Pending,Hired,94,118743,19
+C1559,45,Female,Finance,Accountant,M.Tech,10,2025-05-21,Naukri,Failed,Rejected,Rejected,81,86536,86
+C1561,31,Female,Marketing,"Marketing Executive",MBA,2.2,2025-11-30,Naukri,Passed,Selected,Rejected,46,38406,87
+C1562,39,Male,Hr,Recruiter,B.Tech,4.5,2026-01-08,LinkedIn,Failed,Selected,Rejected,57,44781,32
+C1563,65,Female,Sales,"Sales Executive",MCA,11.1,2026-07-18,Referral,Failed,Rejected,Hired,99,82417,30
+C1564,39,Female,Hr,Recruiter,B.Tech,0.7,2026-05-09,"Campus Hiring",Failed,Pending,Hired,98,43325,14
+C1565,31,Male,Sales,"Sales Analyst",M.Tech,1.1,2026-06-23,Naukri,Passed,Rejected,Rejected,59,93684,51
+C1566,44,Male,Finance,"Finance Executive",B.Tech,2,2025-06-05,Indeed,Passed,Rejected,Rejected,100,119415,8
+C1567,32,Male,Sales,"Business Development Executive",MBA,7.1,2025-10-18,"Company Website",Failed,Rejected,Rejected,91,98469,59
+C1568,30,Male,Marketing,"Marketing Analyst",MCA,1.8,2025-05-24,Naukri,Passed,Selected,Pending,77,34436,70
+C1569,28,Male,IT,"Software Developer",M.Tech,11.6,2025-04-16,"Company Website",Passed,Rejected,Rejected,42,42669,71
+C1571,29,Male,Sales,"Sales Executive",B.Com,6,2025-01-02,Indeed,Failed,Selected,Rejected,73,101764,59
+C1573,25,Male,Marketing,"Marketing Executive",MCA,5.7,2025-03-31,Referral,Passed,Selected,Pending,90,90609,35
+C1574,41,Female,Hr,"HR Analyst",B.Sc,7.9,2025-12-11,Indeed,Failed,Pending,Rejected,90,75812,78
+C1577,29,Male,Finance,"Financial Analyst",MCA,6.9,2025-09-20,Naukri,Passed,Rejected,Rejected,60,65768,85
+C1578,35,Male,IT,"Software Developer",M.Tech,10.9,2025-12-17,Indeed,Passed,Rejected,Pending,59,50395,32
+C1579,35,Male,Finance,Accountant,B.Com,9.8,2025-04-18,LinkedIn,Passed,Selected,Hired,41,45202,23
+C1580,36,Female,Marketing,"Marketing Executive",B.Sc,9.1,2026-08-09,"Company Website",Passed,Rejected,Pending,75,38273,24
+C1581,34,Male,Hr,"HR Analyst",MCA,0.7,2025-02-08,Referral,Passed,Rejected,Rejected,82,73889,17
+C1582,28,Male,IT,"Data Analyst",MBA,0.1,2025-06-08,Indeed,Passed,Rejected,Rejected,91,98048,81
+C1583,38,Male,Operations,"Process Associate",B.Tech,2.5,2026-08-06,Referral,Passed,Selected,Rejected,48,118767,47
+C1584,30,Male,Sales,"Business Development Executive",M.Tech,8,2025-11-08,"Company Website",Passed,Rejected,Pending,73,113810,15
+C1585,40,Male,Marketing,"Marketing Analyst",MBA,4.9,2025-08-29,Referral,Passed,Selected,Hired,40,70510,52
+C1586,26,Male,IT,"Software Developer",MCA,4.8,2026-03-21,Indeed,Failed,Rejected,Hired,46,112945,19
+C1587,32,Female,Sales,"Sales Analyst",MCA,10.6,2025-10-25,"Company Website",Failed,Selected,Pending,43,95649,21
+C1588,22,Female,IT,"QA Engineer",B.Com,10.7,2025-02-05,LinkedIn,Passed,Pending,Rejected,84,27881,58
+C1589,27,Male,Finance,"Finance Executive",Unknown,10.9,2025-03-25,Indeed,Failed,Rejected,Hired,45,70913,54
+C1590,36,Female,IT,"Data Analyst",M.Tech,3.8,2026-03-28,Naukri,Passed,Rejected,Rejected,83,109785,32
+C1591,23,Female,Operations,"Operations Executive",MBA,8.3,2026-01-20,"Campus Hiring",Passed,Rejected,Rejected,55,90037,87
+C1592,33,Male,IT,"Software Developer",M.Tech,3.3,2025-06-21,Indeed,Failed,Selected,Rejected,93,87457,8
+C1593,23,Male,IT,"Software Developer",B.Sc,2.3,2026-01-11,"Company Website",Passed,Selected,Rejected,89,60343,26
+C1594,38,Male,Operations,"Operations Executive",B.Sc,2.2,2025-12-28,"Campus Hiring",Failed,Pending,Rejected,97,87389,90
+C1595,31,Female,Marketing,"Digital Marketer",B.Tech,4.1,2026-07-13,Indeed,Passed,Pending,Hired,93,103250,43
+C1596,28,Male,IT,"Data Analyst",B.Tech,5.2,2025-05-21,LinkedIn,Failed,Selected,Rejected,96,33656,38
+C1597,26,Female,Operations,"Process Associate",B.Sc,10,2025-04-28,LinkedIn,Passed,Rejected,Pending,92,30741,48
+C1600,43,Male,Finance,"Financial Analyst",B.Sc,6.4,2025-01-26,"Campus Hiring",Failed,Selected,Rejected,56,57833,16
+C1601,28,Male,IT,"Software Developer",B.Tech,3.5,2026-06-05,"Company Website",Passed,Selected,Rejected,53,96240,6
+C1602,25,Female,it,"Digital Marketer",B.Sc,5.9,2025-01-10,"Company Website",Failed,Selected,Rejected,76,102711,32
+C1603,36,Female,Marketing,"Marketing Analyst",MCA,3.6,2026-01-13,Referral,Passed,Pending,Rejected,70,82141,78
+C1604,31,Female,Sales,"Business Development Executive",B.Sc,7.2,2026-08-07,LinkedIn,Passed,Rejected,Rejected,92,103232,90
+C1605,25,Female,IT,"QA Engineer",M.Tech,5.2,2025-06-01,LinkedIn,Passed,Rejected,Rejected,97,64023,85
+C1606,24,Female,Finance,"Financial Analyst",MBA,2,2025-02-18,Indeed,Passed,Pending,Rejected,64,65209,71
+C1607,26,Female,Marketing,"Digital Marketer",MCA,1.4,2025-06-03,Naukri,Failed,Rejected,Hired,70,118590,75
+C1608,34,Male,IT,"QA Engineer",B.Tech,6.6,2025-10-20,"Campus Hiring",Passed,Pending,Hired,98,111612,76
+C1609,42,Female,Marketing,"Marketing Executive",M.Tech,10.8,2026-08-03,Naukri,Passed,Rejected,Hired,57,105522,88
+C1610,39,Male,Operations,"Operations Analyst",B.Sc,4.1,2025-02-19,Naukri,Passed,Selected,Rejected,88,39440,80
+C1611,29,Male,Marketing,"Marketing Executive",B.Sc,8.8,2026-06-15,Indeed,Passed,Pending,Pending,54,32960,85
+C1612,32,Female,Finance,Accountant,MBA,7.9,2025-03-01,Naukri,Failed,Rejected,Rejected,81,47462,14
+C1613,31,Male,Hr,"HR Executive",B.Tech,11.2,2025-06-16,Referral,Passed,Selected,Hired,55,42821,90
+C1614,34,Female,Sales,"Sales Executive",B.Tech,9.9,2025-07-21,Indeed,Passed,Selected,Hired,93,82772,61
+C1615,43,Female,Sales,"Sales Analyst",B.Com,6.8,2025-05-26,Referral,Failed,Selected,Hired,74,52258,90
+C1616,36,Male,Finance,"Financial Analyst",B.Tech,7.9,2026-03-15,Indeed,Failed,Rejected,Rejected,51,117889,41
+C1617,21,Male,Marketing,"Digital Marketer",MBA,10.8,2025-08-30,Naukri,Passed,Pending,Rejected,53,113952,81
+C1618,33,Female,IT,"Software Developer",B.Com,4.8,2026-08-04,Referral,Passed,Pending,Rejected,70,87524,68
+C1619,43,Female,Marketing,"Marketing Analyst",B.Com,3.9,2026-07-15,Referral,Passed,Pending,Hired,98,47115,83
+C1621,41,Male,Sales,"Business Development Executive",B.Sc,9.9,2025-04-18,Indeed,Failed,Rejected,Hired,69,115504,44
+C1622,33,Male,Marketing,"Digital Marketer",B.Tech,9.6,2025-08-14,"Company Website",Failed,Selected,Hired,60,113267,64
+C1624,24,Female,IT,"Data Analyst",B.Sc,6.9,2026-02-23,Referral,Passed,Rejected,Hired,85,104364,23
+C1625,26,Female,Sales,"Business Development Executive",MBA,5.6,2026-03-31,"Campus Hiring",Passed,Rejected,Rejected,87,95077,76
+C1627,25,Female,Hr,"HR Executive",MCA,11.8,2026-06-07,"Campus Hiring",Passed,Rejected,Pending,83,87643,48
+C1628,45,Male,Hr,"HR Analyst",MCA,2.6,2026-08-13,Naukri,Passed,Selected,Pending,79,38311,41
+C1629,23,Male,Operations,"Operations Analyst",B.Sc,0.8,2025-03-18,Naukri,Passed,Pending,Rejected,98,55531,40
+C1630,21,Female,Hr,Recruiter,B.Com,7.1,2026-05-24,Referral,Passed,Pending,Hired,96,39588,85
+C1631,24,Female,Sales,"Sales Executive",B.Com,8.9,2026-03-17,Referral,Passed,Selected,Rejected,87,74416,25
+C1632,45,Female,Finance,Accountant,M.Tech,0.4,2025-09-11,Indeed,Passed,Rejected,Rejected,83,37380,6
+C1633,40,Female,Sales,"Sales Executive",MCA,7.9,2025-11-16,"Company Website",Passed,Pending,Hired,56,67645,35
+C1634,22,Female,Finance,Accountant,MBA,6.4,2025-09-20,"Company Website",Passed,Selected,Rejected,91,42818,34
+C1635,25,Female,Finance,Accountant,B.Com,1.2,2026-08-20,Referral,Passed,Rejected,Pending,66,55857,80
+C1636,23,Female,Hr,"HR Executive",B.Tech,2.1,2026-07-08,Naukri,Passed,Selected,Rejected,56,46711,48
+C1637,29,Female,Marketing,"Marketing Executive",MCA,6.8,2026-01-09,Referral,Passed,Rejected,Hired,63,30097,16
+C1638,40,Female,IT,"Data Analyst",MBA,3.6,2025-06-16,Naukri,Failed,Selected,Hired,90,53393,55
+C1639,26,Male,Hr,Recruiter,MBA,11.3,2026-04-04,Naukri,Failed,Rejected,Rejected,49,47076,53
+C1640,38,Female,Hr,Recruiter,B.Com,9.8,2025-10-07,Referral,Failed,Selected,Hired,67,109274,28
+C1641,26,Male,Marketing,"Marketing Analyst",MBA,11.8,2025-10-29,LinkedIn,Passed,Rejected,Rejected,70,82609,28
+C1642,39,Male,IT,"Data Analyst",B.Com,3.1,2026-06-15,"Company Website",Failed,Pending,Rejected,42,54317,64
+C1643,32,Female,Sales,"Business Development Executive",B.Sc,11.6,2026-08-03,"Campus Hiring",Failed,Pending,Hired,52,83480,15
+C1644,45,Female,Operations,"Operations Analyst",MCA,5.2,2025-08-06,Naukri,Passed,Pending,Pending,90,32044,17
+C1645,31,Male,Operations,"Operations Executive",M.Tech,4.2,2025-04-12,Naukri,Passed,Rejected,Rejected,90,96033,76
+C1646,22,Male,Sales,"Sales Analyst",B.Sc,0.6,2026-07-08,LinkedIn,Failed,Selected,Hired,58,80486,78
+C1647,35,Female,Hr,"HR Executive",MCA,0.6,2025-10-15,"Campus Hiring",Passed,Selected,Rejected,92,80162,76
+C1648,32,Male,IT,"QA Engineer",B.Com,8.3,2025-06-16,Indeed,Passed,Pending,Rejected,86,104287,68
+C1649,32,Female,Hr,Recruiter,MCA,5.5,2025-02-05,LinkedIn,Failed,Rejected,Rejected,65,54882,24
+C1650,29,Female,Finance,"Finance Executive",B.Com,2.7,2025-12-19,"Campus Hiring",Failed,Selected,Pending,85,79078,76
+C1651,41,Female,Hr,Recruiter,B.Sc,7.4,2025-03-14,LinkedIn,Passed,Rejected,Rejected,98,83734,77
+C1652,44,Male,Hr,"HR Executive",B.Tech,3,2025-12-19,Naukri,Passed,Selected,Pending,68,68826,75
+C1653,22,Male,Sales,"Sales Executive",B.Tech,6.9,2025-03-11,"Company Website",Passed,Selected,Rejected,54,112985,82
+C1654,42,Female,Sales,"Sales Executive",MCA,4.3,2026-03-01,LinkedIn,Failed,Pending,Rejected,97,69028,32
+C1656,32,Male,Operations,"Operations Analyst",B.Com,9.8,2026-06-01,Referral,Passed,Rejected,Rejected,46,57543,47
+C1657,36,Male,Finance,"Financial Analyst",MBA,5.7,2026-03-04,"Campus Hiring",Failed,Pending,Hired,74,54362,12
+C1658,41,Male,Sales,"Sales Executive",B.Com,4.2,2026-06-23,LinkedIn,Passed,Rejected,Rejected,70,52315,17
+C1659,44,Male,IT,"Software Developer",MBA,4.4,2025-06-09,LinkedIn,Passed,Rejected,Rejected,91,52746,89
+C1660,21,Male,Operations,"Operations Executive",B.Sc,9.7,2025-05-29,Indeed,Passed,Selected,Hired,72,500000,39
+C1661,41,Male,Marketing,"Digital Marketer",M.Tech,3.9,2025-08-18,"Company Website",Passed,Selected,Pending,55,67915,27
+C1662,23,Female,IT,"Software Developer",MBA,2.5,2026-07-16,LinkedIn,Passed,Rejected,Hired,81,46061,50
+C1663,40,Male,IT,"Software Developer",B.Tech,1,2025-03-08,LinkedIn,Passed,Pending,Hired,73,76370,19
+C1664,22,Male,Sales,"Business Development Executive",B.Com,5.6,2026-01-16,"Company Website",Passed,Rejected,Pending,54,59157,6
+C1665,29,Male,Marketing,"Digital Marketer",B.Sc,5.8,2025-02-27,Indeed,Passed,Selected,Rejected,74,36322,65
+C1666,39,Male,Marketing,"Marketing Analyst",B.Tech,10.1,2025-09-16,"Campus Hiring",Failed,Selected,Hired,89,94812,80
+C1668,38,Male,Marketing,"Marketing Analyst",M.Tech,4.6,2025-05-10,LinkedIn,Failed,Selected,Rejected,78,59017,56
+C1669,31,Male,Finance,"Financial Analyst",B.Com,9.7,2025-06-21,"Company Website",Passed,Rejected,Hired,61,81792,40
+C1670,45,Male,Sales,"Sales Analyst",MCA,9.9,2025-07-28,LinkedIn,Passed,Selected,Pending,58,52742,71
+C1671,43,Female,Marketing,"Digital Marketer",B.Com,4.6,2025-12-20,Referral,Passed,Selected,Rejected,64,89808,73
+C1673,42,Male,Finance,"Financial Analyst",B.Com,3.6,2025-04-26,Naukri,Passed,Rejected,Rejected,90,33245,51
+C1674,37,Male,Hr,"HR Analyst",MCA,11.2,2025-09-21,Referral,Failed,Selected,Rejected,56,68870,87
+C1676,32,Female,Finance,"Financial Analyst",B.Sc,11.2,2026-07-02,Indeed,Failed,Pending,Rejected,46,35588,48
+C1677,31,Female,Operations,"Process Associate",MCA,8.2,2026-03-29,"Campus Hiring",Failed,Selected,Rejected,97,25442,68
+C1678,35,Female,Finance,"Finance Executive",B.Tech,6.4,2026-04-22,Naukri,Failed,Rejected,Pending,77,102339,85
+C1679,23,Female,Sales,"Sales Analyst",M.Tech,0.4,2025-10-14,Referral,Passed,Pending,Hired,82,65721,82
+C1681,40,Female,Hr,Recruiter,B.Tech,4.9,2025-11-07,LinkedIn,Passed,Pending,Pending,65,35599,58
+C1682,36,Female,Marketing,"Marketing Analyst",B.Tech,1.9,2025-07-27,Indeed,Passed,Selected,Hired,53,97594,78
+C1683,22,Female,Operations,"Process Associate",M.Tech,7.9,2026-03-22,Referral,Passed,Rejected,Hired,96,107742,71
+C1684,22,Female,Hr,Recruiter,MBA,11.7,2025-02-24,"Company Website",Passed,Rejected,Rejected,69,102430,40
+C1685,23,Female,Marketing,"Digital Marketer",B.Tech,6.7,2025-01-12,LinkedIn,Passed,Pending,Rejected,78,27939,67
+C1686,28,Female,Marketing,"Marketing Executive",B.Tech,8.6,2026-02-04,"Company Website",Passed,Selected,Hired,84,47149,29
+C1687,44,Female,Sales,"Sales Executive",MBA,0.8,2026-05-30,Referral,Passed,Rejected,Rejected,62,91567,90
+C1688,35,Female,IT,"Software Developer",B.Com,5,2026-06-26,Referral,Passed,Pending,Rejected,83,35208,52
+C1689,27,Female,IT,"QA Engineer",B.Tech,1.4,2025-08-25,LinkedIn,Failed,Rejected,Rejected,81,91098,43
+C1690,26,Female,Finance,"Finance Executive",B.Sc,7.4,2025-10-06,"Company Website",Passed,Rejected,Hired,82,74492,51
+C1692,40,Male,Marketing,"Marketing Analyst",B.Tech,7.9,2025-04-14,LinkedIn,Passed,Rejected,Rejected,63,73920,34
+C1693,21,Female,Operations,"Operations Executive",M.Tech,0.9,2026-06-01,"Company Website",Failed,Selected,Pending,53,71766,35
+C1694,28,Male,IT,"Software Developer",MCA,4.3,2025-09-05,"Campus Hiring",Passed,Selected,Pending,89,82014,30
+C1695,43,Female,Marketing,"Marketing Analyst",Unknown,6.6,2025-12-30,LinkedIn,Passed,Rejected,Rejected,77,53351,26
+C1696,43,Female,IT,"Data Analyst",MCA,4.8,2025-11-17,Indeed,Passed,Selected,Rejected,67,109216,25
+C1697,23,Male,IT,"QA Engineer",MCA,10,2025-10-13,Referral,Passed,Pending,Rejected,97,74386,5
+C1698,24,Female,IT,"Software Developer",B.Tech,9.8,2025-05-29,Indeed,Passed,Pending,Hired,43,112122,41
+C1699,45,Male,Operations,"Operations Executive",B.Sc,7.3,2025-03-25,"Campus Hiring",Failed,Rejected,Hired,91,34308,81
+C1700,35,Male,Sales,"Business Development Executive",Unknown,4.5,2026-02-10,"Campus Hiring",Failed,Pending,Rejected,100,84252,89
+C1701,26,Male,Operations,"Operations Analyst",B.Com,3.1,2026-04-01,Naukri,Passed,Rejected,Hired,93,100145,50
+C1702,35,Female,Hr,"HR Executive",MCA,1.3,2025-06-10,Naukri,Passed,Selected,Hired,89,108211,13
+C1703,41,Female,Marketing,"Marketing Executive",B.Sc,4.3,2026-04-05,Naukri,Passed,Rejected,Pending,62,53064,21
+C1704,23,Female,it,"Sales Executive",Unknown,5,2026-07-04,LinkedIn,Passed,Selected,Hired,54,78879,51
+C1705,45,Male,Sales,"Sales Executive",MBA,8.1,2026-05-15,"Company Website",Passed,Selected,Hired,84,33720,89
+C1706,65,Male,Sales,"Sales Executive",B.Com,7.9,2026-05-24,"Campus Hiring",Passed,Pending,Hired,58,67940,63
+C1707,41,Female,Sales,"Sales Executive",M.Tech,0.8,2026-04-26,LinkedIn,Failed,Rejected,Rejected,51,104993,58
+C1708,34,Female,Operations,"Operations Executive",B.Tech,4.7,2025-04-24,Indeed,Failed,Pending,Rejected,87,93475,90
+C1709,40,Female,Sales,"Sales Analyst",MBA,2.2,2026-08-01,Indeed,Passed,Selected,Rejected,59,72113,16
+C1710,34,Female,Finance,Accountant,MBA,1.9,2025-12-27,Indeed,Passed,Rejected,Rejected,95,73926,68
+C1711,24,Female,Marketing,"Marketing Executive",M.Tech,9.9,2025-12-07,Naukri,Passed,Selected,Rejected,90,63203,10
+C1712,32,Male,Sales,"Sales Analyst",B.Com,0.5,2026-03-25,Indeed,Passed,Rejected,Pending,91,113901,57
+C1713,37,Male,Marketing,"Marketing Analyst",B.Tech,5,2025-06-29,"Company Website",Passed,Rejected,Pending,86,30392,20
+C1714,27,Male,Finance,"Finance Executive",B.Com,2,2026-02-11,Naukri,Passed,Rejected,Pending,93,50905,9
+C1715,29,Female,Finance,Accountant,B.Sc,10.6,2025-07-15,Indeed,Failed,Selected,Rejected,88,98508,77
+C1716,23,Male,Marketing,"Marketing Executive",B.Com,6.7,2026-04-11,LinkedIn,Failed,Selected,Hired,76,75385,50
+C1717,33,Male,IT,"QA Engineer",MBA,2.8,2025-11-07,Referral,Passed,Selected,Hired,58,55653,18
+C1718,35,Male,Hr,Recruiter,B.Tech,6,2025-09-19,Referral,Passed,Rejected,Hired,93,116865,48
+C1719,38,Male,IT,"Software Developer",B.Com,8.8,2026-02-23,Referral,Passed,Pending,Rejected,90,109720,67
+C1720,39,Male,IT,"Software Developer",B.Tech,11.5,2026-02-10,Naukri,Passed,Selected,Pending,68,39799,56
+C1721,21,Female,Operations,"Process Associate",B.Tech,2.6,2025-05-23,Indeed,Passed,Rejected,Rejected,42,85103,30
+C1722,26,Male,IT,"Data Analyst",B.Sc,10.6,2025-12-08,"Campus Hiring",Passed,Pending,Hired,78,40052,57
+C1724,22,Female,Operations,"Process Associate",MBA,11,2025-04-11,"Campus Hiring",Passed,Rejected,Pending,96,44871,23
+C1725,44,Female,Operations,"Operations Executive",M.Tech,7.6,2025-09-01,Naukri,Failed,Pending,Rejected,98,114303,51
+C1726,34,Female,Finance,"Financial Analyst",B.Tech,7.6,2026-05-05,"Company Website",Passed,Selected,Pending,51,45234,12
+C1727,26,Female,IT,"Data Analyst",M.Tech,4.8,2025-01-12,LinkedIn,Passed,Selected,Pending,81,46381,27
+C1728,72,Male,Finance,Accountant,MBA,9,2025-08-27,LinkedIn,Passed,Selected,Pending,46,42274,39
+C1729,24,Male,Marketing,"Marketing Executive",B.Tech,6.4,2026-07-15,Referral,Passed,Pending,Rejected,84,112840,57
+C1730,41,Female,Hr,"HR Analyst",B.Tech,8.1,2025-02-11,Referral,Passed,Pending,Rejected,61,108108,62
+C1731,28,Female,Operations,"Operations Executive",Unknown,5.1,2026-08-17,"Campus Hiring",Failed,Rejected,Hired,81,74892,9
+C1732,23,Female,Marketing,"Marketing Analyst",M.Tech,8.8,2026-03-05,"Campus Hiring",Failed,Selected,Hired,62,75521,20
+C1733,39,Male,Marketing,"Digital Marketer",B.Com,9.9,2025-06-07,Referral,Passed,Rejected,Rejected,49,116501,21
+C1734,34,Female,Sales,"Sales Analyst",B.Sc,1.8,2025-08-04,Indeed,Passed,Selected,Hired,64,108920,36
+C1736,37,Female,Marketing,"Marketing Executive",M.Tech,6.5,2025-05-14,"Company Website",Passed,Rejected,Rejected,75,42920,24
+C1737,45,Male,Marketing,"Marketing Executive",B.Sc,10.1,2025-03-08,"Company Website",Failed,Pending,Pending,42,41702,70
+C1739,44,Male,Hr,"HR Executive",MCA,4.5,2026-06-10,Referral,Passed,Rejected,Rejected,93,55985,86
+C1740,34,Female,Marketing,"Digital Marketer",B.Sc,11,2025-03-14,LinkedIn,Passed,Selected,Pending,90,53287,5
+C1741,26,Male,Hr,Recruiter,B.Tech,3,2026-02-03,Referral,Passed,Selected,Rejected,93,98527,62
+C1742,43,Male,Marketing,"Marketing Executive",B.Com,10.1,2026-02-09,"Company Website",Failed,Selected,Rejected,95,40439,87
+C1743,42,Male,Marketing,"Digital Marketer",B.Sc,5.8,2026-08-01,Referral,Passed,Rejected,Hired,46,119620,48
+C1744,36,Male,Sales,"Sales Executive",MCA,6.2,2025-05-10,"Company Website",Failed,Pending,Rejected,48,67235,10
+C1745,45,Male,IT,"QA Engineer",B.Sc,3.7,2026-04-11,Naukri,Passed,Rejected,Rejected,73,52659,54
+C1746,39,Male,Marketing,"Marketing Analyst",B.Sc,6.9,2025-07-25,"Campus Hiring",Failed,Rejected,Rejected,94,49976,76
+C1747,34,Male,Finance,Accountant,MCA,3.9,2025-09-23,LinkedIn,Passed,Selected,Rejected,98,107643,24
+C1748,39,Female,Operations,"Operations Executive",B.Com,0.5,2026-06-21,Naukri,Passed,Selected,Rejected,43,92865,18
+C1749,23,Female,IT,"Data Analyst",MBA,3.3,2025-09-10,Indeed,Failed,Rejected,Rejected,61,93306,9
+C1750,30,Female,IT,"Software Developer",B.Com,0.1,2025-10-16,Referral,Passed,Selected,Rejected,53,81697,45
+C1751,80,Female,IT,"QA Engineer",M.Tech,11.7,2025-06-13,Indeed,Passed,Rejected,Rejected,85,95382,44
+C1752,29,Female,Sales,"Business Development Executive",MCA,11.6,2025-04-05,Referral,Passed,Pending,Pending,78,41651,38
+C1754,33,Male,Sales,"Sales Executive",B.Sc,8.7,2025-12-02,Naukri,Passed,Selected,Rejected,69,39633,49
+C1755,27,Male,Marketing,"Marketing Analyst",MCA,4.1,2025-08-26,"Campus Hiring",Failed,Selected,Rejected,81,104164,75
+C1756,34,Male,Sales,"Business Development Executive",B.Tech,8.1,2026-01-16,"Company Website",Passed,Rejected,Pending,87,25569,84
+C1757,29,Male,Sales,"Sales Executive",B.Com,9.7,2026-03-12,"Campus Hiring",Passed,Rejected,Rejected,41,84900,75
+C1758,43,Female,Operations,"Operations Analyst",MCA,11.4,2026-04-28,"Campus Hiring",Failed,Rejected,Rejected,93,92509,31
+C1759,45,Female,Finance,Accountant,B.Com,4.8,2025-01-25,"Company Website",Failed,Rejected,Rejected,74,58038,82
+C1760,39,Female,Sales,"Sales Analyst",MCA,9.4,2025-04-27,Referral,Failed,Rejected,Rejected,89,74088,82
+C1761,35,Female,Operations,"Operations Analyst",B.Sc,3.2,2026-04-27,"Company Website",Failed,Rejected,Hired,88,98177,48
+C1762,40,Male,Hr,"HR Analyst",B.Tech,11.9,2026-01-27,Naukri,Passed,Selected,Rejected,51,99466,37
+C1764,44,Male,Sales,"Sales Analyst",M.Tech,7.2,2025-03-20,"Company Website",Passed,Selected,Pending,83,91793,48
+C1765,26,Female,IT,"Data Analyst",MCA,7.9,2026-08-03,"Campus Hiring",Failed,Selected,Rejected,49,98786,24
+C1766,41,Male,Hr,"HR Analyst",B.Com,8.3,2025-06-22,Naukri,Failed,Rejected,Rejected,91,63138,40
+C1767,24,Female,Hr,Recruiter,B.Tech,1.4,2025-01-12,Indeed,Passed,Rejected,Hired,84,88310,11
+C1768,28,Male,Operations,"Process Associate",B.Tech,11.3,2025-05-08,Naukri,Passed,Pending,Pending,91,53757,36
+C1769,37,Male,Hr,"HR Analyst",MBA,2.2,2026-08-31,LinkedIn,Passed,Rejected,Pending,58,95394,71
+C1770,29,Female,Finance,"Financial Analyst",MBA,7.5,2025-04-02,LinkedIn,Failed,Pending,Hired,59,104027,43
+C1771,21,Female,Sales,"Business Development Executive",B.Tech,2.7,2026-06-27,LinkedIn,Passed,Pending,Hired,80,115830,28
+C1772,44,Male,Sales,"Sales Analyst",MCA,3.7,2026-06-16,"Campus Hiring",Passed,Rejected,Rejected,42,81151,90
+C1773,40,Female,IT,"Software Developer",M.Tech,6.6,2026-03-23,Referral,Passed,Rejected,Rejected,84,74272,74
+C1774,45,Male,Operations,"Process Associate",B.Tech,5,2026-01-25,Referral,Failed,Rejected,Rejected,90,31908,58
+C1775,34,Female,IT,"QA Engineer",B.Sc,1.9,2025-02-12,Referral,Passed,Pending,Hired,65,35844,42
+C1776,31,Male,Hr,Recruiter,B.Com,2.1,2025-09-11,"Campus Hiring",Passed,Rejected,Hired,86,76455,78
+C1777,41,Male,IT,"QA Engineer",M.Tech,5,2025-05-10,Naukri,Passed,Selected,Rejected,50,93447,84
+C1778,23,Male,Finance,Accountant,B.Sc,9.1,2025-03-01,Referral,Passed,Rejected,Rejected,59,99527,79
+C1779,29,Male,Sales,"Sales Analyst",M.Tech,10.8,2026-04-12,Indeed,Failed,Selected,Rejected,98,102108,36
+C1780,34,Male,Hr,"HR Executive",B.Sc,1,2025-10-14,LinkedIn,Failed,Rejected,Rejected,99,68066,49
+C1782,24,Male,Operations,"Process Associate",B.Com,1.2,2026-04-12,LinkedIn,Passed,Rejected,Rejected,96,63333,74
+C1783,24,Male,Finance,"Finance Executive",MBA,0.2,2025-12-11,Referral,Passed,Pending,Hired,71,108029,57
+C1785,22,Female,IT,"Software Developer",B.Sc,7.2,2025-09-10,"Company Website",Failed,Selected,Rejected,56,42634,80
+C1788,42,Female,Hr,"HR Analyst",MBA,0.3,2026-04-02,Referral,Passed,Selected,Hired,75,97887,42
+C1789,29,Male,IT,"Software Developer",B.Com,10,2025-03-24,Indeed,Passed,Selected,Rejected,73,80063,66
+C1790,44,Male,Finance,"Finance Executive",M.Tech,11.7,2025-04-09,Indeed,Passed,Selected,Pending,84,50921,22
+C1791,43,Female,IT,"QA Engineer",MBA,1.6,2025-05-29,"Company Website",Passed,Rejected,Hired,70,44340,68
+C1792,36,Male,Sales,"Sales Analyst",B.Sc,2.8,2025-11-25,Referral,Passed,Selected,Pending,56,87781,81
+C1793,37,Male,Operations,"Process Associate",B.Sc,10.4,2025-06-05,"Campus Hiring",Failed,Rejected,Hired,50,39901,34
+C1794,36,Female,Marketing,"Marketing Executive",MCA,11.1,2025-07-09,Referral,Passed,Selected,Pending,77,35638,53
+C1795,32,Male,IT,"Data Analyst",B.Com,5,2026-09-05,LinkedIn,Passed,Rejected,Rejected,83,63596,45
+C1796,23,Male,Sales,"Business Development Executive",B.Sc,0.6,2025-09-20,Naukri,Failed,Selected,Rejected,74,111914,17
+C1797,31,Female,Sales,"Sales Executive",B.Tech,0.5,2025-03-21,Naukri,Passed,Rejected,Rejected,84,69324,38
+C1798,34,Male,Operations,"Operations Executive",M.Tech,6.9,2026-02-04,LinkedIn,Failed,Selected,Rejected,48,113356,29
+C1799,38,Female,Hr,Accountant,MBA,4.7,2025-09-17,Naukri,Passed,Rejected,Pending,93,115596,70
+C1800,41,Male,Sales,"Sales Executive",MCA,0.3,2026-07-06,Indeed,Passed,Pending,Rejected,75,57642,22
